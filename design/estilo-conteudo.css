@@ -1,0 +1,53 @@
+@import url("estilos-homepage.css");
+
+nav {
+    margin-top: 0px;
+}
+
+@media screen and (max-width: 600px) {
+    main {
+        padding-top: 77px;
+    }
+
+    main p {
+        font-size: 3vw;
+        margin: 35px;
+        text-align: center;
+        text-indent: 0px;
+    }
+
+    p.nome-data {
+        font-family: 'electrolize';
+        font-style: italic;
+        font-size: 2.5vw;
+        margin: 10px;
+    }
+
+    .poster-conteudo {
+        margin-bottom: 20px;
+    }
+
+    .poster-conteudo img {
+        width: 100%;
+    }
+
+    h2.titulo-article-conteudo{
+        text-align: left;
+        margin-left: 20px;
+        font-size: 5.7vw;
+    }
+
+    article {
+        padding: 15px;
+        cursor: auto;
+    }
+
+    article p {
+        margin: 0px;
+        text-align: left;
+        text-indent: 30px;
+        line-height: 27px;
+        font-size: 3.5vw;
+        color: var(--branco_fumaca);
+    }
+}
