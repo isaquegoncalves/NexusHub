@@ -83,6 +83,56 @@ iframe {
 }
 
 
+/*==============BOX DA HOMEPAGE==================*/
+    h2.titulo-veja-mais {
+        color: rgb(218, 210, 255);
+        font-size: 40px;
+        text-shadow: 0px 0px 10px rgba(233, 201, 255, 0.288);
+    }
+
+    a {
+        display: block;
+        margin: auto;
+        max-width: 760px;
+    }
+    
+    .article-veja-mais:hover {
+        cursor: pointer;
+    }
+
+    .article-veja-mais {
+        background-color: #15053a;
+        border-style: solid;
+        border-width: 1px;
+        border-color: linear-gradient(to right, #291d65, #3f00c0);
+        padding: 17px;
+        display: flex;
+        align-items: center;
+    }
+
+    .article-veja-mais p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .divisor {
+        width: 170%;
+        padding: 15px;
+        padding-top: 0px;
+        padding-right: 0px;
+    }
+
+    .poster-article img {
+        width: 100%;
+        min-width: 233px;
+    }
+
+    article h3 {
+        font-size: 23px;
+        text-align: center;
+    }
+/*==============================*/
+
 @media screen and (max-width: 600px) {
     main {
         padding-top: 77px;
@@ -119,7 +169,7 @@ iframe {
     h2.titulo-article-conteudo{
         text-align: left;
         margin-left: 20px;
-        font-size: 5.7vw;
+        font-size: 32px;
     }
 
     article {
@@ -132,12 +182,45 @@ iframe {
         margin: 0px;
         text-align: left;
         text-indent: 30px;
-        line-height: 27px;
-        font-size: 18px;
+        line-height: 28px;
+        font-size: 19px;
         color: var(--branco_fumaca);
     }
 
-    iframe {
-        height: 54%;
+    .poster-iframe {
+        height: 320px;
+        margin-bottom: 30px;
     }
+
+    /*=====BOX DA HOMEPAGE(start)=======*/
+        .article-veja-mais {
+            flex-direction: column;
+            padding: 15px;
+        }
+
+        .article-veja-mais p {
+            font-size: 17px;
+        }
+
+        .divisor {
+            padding: 0px;
+            width: 100%;
+            margin: auto;
+        }
+
+        .divisor h3 {
+            margin: 20px auto;
+            margin-top: 0px;
+        }
+
+        .divisor p {
+            line-height: 25px;
+        }
+    /*=====BOX DA HOMEPAGE(end)======*/
+
+    /*======FOOTER(start)======*/
+        section#contato h2 {
+            font-size: 25px;
+        }
+    /*======FOOTER(end)*/
 }
