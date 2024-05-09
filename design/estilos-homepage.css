@@ -215,10 +215,13 @@ header {
 /*==========CONTEÚDO MAIN(end)=========*/
 
 @media screen and (max-width:600px) {
+    body {
+        min-width: 320px;
+    }
     /*================BARRA DE NAVEGAÇÃO(start)===============*/
         nav > a{
-            font-size: 23px;
-            margin: 8px;
+            font-size: 20px;
+            margin: 11px;
         }
 
         nav #logo-nav {
@@ -278,6 +281,11 @@ header {
 
         article p {
             font-size: 3.5vw;
+        }
+
+        section#contato h2 {
+            font-size: 20px;
+            text-wrap: nowrap;
         }
     /*==========CONTEÚDO MAIN(end)===========*/
 }
