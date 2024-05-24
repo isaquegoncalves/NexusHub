@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-    <label> <!----SIDE BAR----->
+    <label> <!----SIDE BAR(Mobile)----->
         <input type="checkbox">
         <div class="toggle">
             <span class="top-line common"></span>
@@ -20,10 +20,19 @@
         <div class="slide">
             <h1>Menu</h1>
             <ul>
-                <li><a href="#"><i class="fas fa-house"></i> HomePage</a></li>
-                <li><a href="#"><i class="fa-solid fa-diagram-project"></i> Temas</a></li>
-                <li><a href="#"><i class="fas fa-user-tie"></i> Sobre</a></li>
+                <li><a href="../index.html"><i class="fa-solid fa-house-chimney"></i> Início</a></li>
+                <li><a href="#"><i class="fa-solid fa-film"></i> Filmes</a></li>
+                <li><a href="#"><i class="fa-solid fa-gamepad"></i> Jogos</a></li>
+                <li><a href="#"><i class="fa-solid fa-book"></i> Documentários</a></li>
+                
+            </ul>
+
+            <h1>Geral</h1>
+            <ul>
+                <li><a href="#"><i class="fa-solid fa-user-tie"></i> Sobre</a></li>
                 <li><a href="#"><i class="fa-solid fa-envelope"></i> Contato</a></li>
+                <li><a href="#"><i class="fa-solid fa-lock"></i> Política de privacidade</a></li>
+                <li><a href="#"><i class="fa-solid fa-file"></i> Termos de serviço</a></li>
             </ul>
         </div>
     </label>
@@ -38,82 +47,102 @@
         </nav>
     </header>
     <main>
-        <h2>O Dilema das Redes</h2>
-        <p>"O Dilema das Redes" destaca os perigos das mídias sociais, expondo seus efeitos manipulativos e os riscos à privacidade e à sociedade.</p>
-
-        <p class="nome-data">Por Isaque G. S. Brandão | 28/04/2024</p>
-
-        <div class="poster-conteudo">
-            <img src="../design/img/O-dilema-das-redes-capa.jpg" alt="Capa do documentário: O dilema das Redes">
-        </div>
-
-        <h2 class="titulo-article-conteudo">Tema Abordado</h2>
-        <article>
-            <p>O documentário apresentado aborda alguns dos principais temas e críticas, sobre quais são os impactos causados relacionados ao uso excessivo das redes sociais em nossa sociedade, devido ao alto consumo das redes sociais e da alta influenciabilidade que elas possuem em nossas vidas, e como isso pode vir a afetar a saúde mental do usuário e até mesmo interferir em nossas próprias decisões pessoais.</p>
-        </article>
-
-        <h2 class="titulo-article-conteudo">Principais Impactos</h2>
-        <article>
-            <p>
-                O documentário utiliza como fonte e evidências os principais ex-funcionários e executivos das gigantes da tecnologia como Google, Twitter, Facebook e Instagram. Cada um deles nos contam sobre suas diferentes experiências sobre como as grandes empresas utilizam as redes sociais para obter lucros às custas de seus usuários, e como o uso excessivo dessas mídias sociais podem impactar nas ideologias políticas e culturais na sociedade, com o acesso em massa às informações de todo o tipo, as pessoas passaram a ser mais negligentes em relação a existir ideias controversas a respeito de sua perspectiva em relação a um determinado tema, tornando a sociedade cada vez mais ignorante e menos tolerantes a novos tipos de pensamentos diferentes.
-            </p>
-        </article>
-
-        
-        <h2 class="titulo-article-conteudo" style="text-align: center; margin: 0px;">
-            Trailer do documentário <br> "O dilema das redes"
-        </h2>
-
-        <div class="poster-iframe">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/uaaC57tcci0?si=U-9FiBYd1meg6zoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
-
-        <h2 class="titulo-article-conteudo">Privacidade Comprometida_</h2>
-        <article>
-            <p>
-                Outro assunto abordado no documentário, que inclusive gera muita polêmica quando se é discutido, é sobre a extração e o uso indiscriminado dos dados obtidos a partir dos usuários das plataformas, a fim de se obter lucros através de publicidades geradas pelos softwares, além de ser uma obtenção indiscriminada de dados obtidos, muita das vezes essa extração acaba comprometendo até mesmo a integridade da privacidade do usuário, tornando todos os seus atos na Internet “algo” que possa ser vendido e monitorado em tempo real para marcas de publicidades, e a partir disso faz com que seja possível “montar” um perfil sobre o que seria mais relevante para que o usuário permanecesse mais tempo interessado em seu feed, quanto mais tempo o usuário passa nas redes sociais, mais publicidade ele acaba visualizando, e isso acaba beneficiando de forma positiva a corporação criadora da rede, e por outro lado acaba prejudicando de forma negativa o usuário que está fazendo o uso da rede, devido aos algoritmos estar fazendo com que o usuário tenha toda a sua atenção “presa” ao software, porém para o usuário que não percebe o que está acontecendo de fato no momento, isso pode parecer algo natural, afinal de contas ele só está procurando algum meio de entretenimento na qual ele possa se satisfazer, porém é a partir desse ponto que os algoritmos atuam. <br><br>
+        <div id="col-1">
+            <h2>Menu</h2>
+            <ul>
+                <li><a href="../index.html"><i class="fa-solid fa-house-chimney"></i> Início</a></li>
+                <li><a href="#"><i class="fa-solid fa-film"></i> Filmes</a></li>
+                <li><a href="#"><i class="fa-solid fa-gamepad"></i> Jogos</a></li>
+                <li><a href="#"><i class="fa-solid fa-book"></i> Documentários</a></li>
                 
-                Como podemos notar esse “entretenimento” que o usuário busca nas redes sociais ocorre devido ao algoritmo estar selecionando cada conteúdo que seja mais relevante para o usuário, se visto desse ponto de vista, toda vez que o usuário estiver com a autoestima mais baixa, ou estiver se sentindo um pouco mais entediado, ele sempre vai recorrer ao uso das redes sociais a fim de se sentir melhor e até mais satisfeito, e se isso for recorrente, ou seja, se tornar uma espécie de looping, isso poderá acabar se tornando um hábito indispensável para o usuário, podendo até progredir e se tornar um vício com o tempo. Óbvio que todo esse processo ocorre de maneira oculta e de forma inconscientemente da ciência do usuário, devido a esses efeitos causados pelo uso das redes sociais, pode-se considerar que é um software projetado para ser altamente viciante, se caso não haja precauções em relação ao seu uso.
-            </p>
-        </article>
+            </ul>
 
-        <h2 class="titulo-article-conteudo">Bem-estar Digital</h2>
-        <article>
-            <p>
-                De longe é possível notar que isso é um problema real em nossa sociedade a partir do momento em que não é mais possível controlar o qual seria a finalidade desse alto volume de informações que são capturadas em nosso cotidiano. Como isso se trata de um problema complexo, a solução também é complexa de aplicar, pelo fato desse mercado trazer milhões de dólares para as indústrias tecnológicas, sendo praticamente um tema muito sensível quando se trata de alterar a forma sobre como eles lucram.
-            </p>
-        </article>
-        
-        <h2 class="titulo-veja-mais">Veja também</h2>
+            <h2>Geral</h2>
+            <ul>
+                <li><a href="#"><i class="fa-solid fa-user-tie"></i> Sobre</a></li>
+                <li><a href="#"><i class="fa-solid fa-envelope"></i> Contato</a></li>
+                <li><a href="#"><i class="fa-solid fa-lock"></i> Política de privacidade</a></li>
+                <li><a href="#"><i class="fa-solid fa-file"></i> Termos de serviço</a></li>
+            </ul>
+        </div>
+        <div id="col-2">
+            <h2>O Dilema das Redes</h2>
+            <p>"O Dilema das Redes" destaca os perigos das mídias sociais, expondo seus efeitos manipulativos e os riscos à privacidade e à sociedade.</p>
 
-        <a href="o-jogo-da-imitacao.html">
-            <article class="article-veja-mais">
-                
-                <div class="poster-article ">
-                    <img src="../design/img/38-facts-about-the-movie-the-imitation-game-1687665705.jpg" alt="">
-                </div>
-                <div class="divisor">
-                    <h3>Análise de "O jogo da imitação"</h3>
-                    <p>O jogo da imitação nos mostra a vida do britânico conhecido também como "Pai da computação". O filme nos mostra as principais dificuldades e desafios enfrentados por Alan Turing desde sua primeira concepção sobre "computadores", sendo fortemente questionado na época.</p>
-                </div>
+            <p class="nome-data">Por Isaque G. S. Brandão | 28/04/2024</p>
+
+            <div class="poster-conteudo">
+                <img src="../design/img/O-dilema-das-redes-capa.jpg" alt="Capa do documentário: O dilema das Redes">
+            </div>
+
+            <h2 class="titulo-article-conteudo">Tema Abordado</h2>
+            <article>
+                <p>O documentário apresentado aborda alguns dos principais temas e críticas, sobre quais são os impactos causados relacionados ao uso excessivo das redes sociais em nossa sociedade, devido ao alto consumo das redes sociais e da alta influenciabilidade que elas possuem em nossas vidas, e como isso pode vir a afetar a saúde mental do usuário e até mesmo interferir em nossas próprias decisões pessoais.</p>
             </article>
-        </a>
 
-        <footer>
-            <section id="contato">
-                <div id="contato-img">
-                    <img src="../design/img/icons8-customer-26.png" alt="">
-                </div>
-                <div id="contato-identidade">
-                    <h2>Isaque G. S. Brandão</h2>
-                    <p>Estudante de T.I.</p>
-                </div>
-            </section>
-            <section id="contato-botoes">
-                <a href="#">Contato</a>
-                <a href="#">Sobre</a>
-            </section>
-        </footer>
+            <h2 class="titulo-article-conteudo">Principais Impactos</h2>
+            <article>
+                <p>
+                    O documentário utiliza como fonte e evidências os principais ex-funcionários e executivos das gigantes da tecnologia como Google, Twitter, Facebook e Instagram. Cada um deles nos contam sobre suas diferentes experiências sobre como as grandes empresas utilizam as redes sociais para obter lucros às custas de seus usuários, e como o uso excessivo dessas mídias sociais podem impactar nas ideologias políticas e culturais na sociedade, com o acesso em massa às informações de todo o tipo, as pessoas passaram a ser mais negligentes em relação a existir ideias controversas a respeito de sua perspectiva em relação a um determinado tema, tornando a sociedade cada vez mais ignorante e menos tolerantes a novos tipos de pensamentos diferentes.
+                </p>
+            </article>
+
+            
+            <h2 class="titulo-article-conteudo" style="text-align: center; margin: 0px;">
+                Trailer do documentário <br> "O dilema das redes"
+            </h2>
+
+            <div class="poster-iframe">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/uaaC57tcci0?si=U-9FiBYd1meg6zoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+
+            <h2 class="titulo-article-conteudo">Privacidade Comprometida</h2>
+            <article>
+                <p>
+                    Outro assunto abordado no documentário, que inclusive gera muita polêmica quando se é discutido, é sobre a extração e o uso indiscriminado dos dados obtidos a partir dos usuários das plataformas, a fim de se obter lucros através de publicidades geradas pelos softwares, além de ser uma obtenção indiscriminada de dados obtidos, muita das vezes essa extração acaba comprometendo até mesmo a integridade da privacidade do usuário, tornando todos os seus atos na Internet “algo” que possa ser vendido e monitorado em tempo real para marcas de publicidades, e a partir disso faz com que seja possível “montar” um perfil sobre o que seria mais relevante para que o usuário permanecesse mais tempo interessado em seu feed, quanto mais tempo o usuário passa nas redes sociais, mais publicidade ele acaba visualizando, e isso acaba beneficiando de forma positiva a corporação criadora da rede, e por outro lado acaba prejudicando de forma negativa o usuário que está fazendo o uso da rede, devido aos algoritmos estar fazendo com que o usuário tenha toda a sua atenção “presa” ao software, porém para o usuário que não percebe o que está acontecendo de fato no momento, isso pode parecer algo natural, afinal de contas ele só está procurando algum meio de entretenimento na qual ele possa se satisfazer, porém é a partir desse ponto que os algoritmos atuam. <br><br>
+                    
+                    Como podemos notar esse “entretenimento” que o usuário busca nas redes sociais ocorre devido ao algoritmo estar selecionando cada conteúdo que seja mais relevante para o usuário, se visto desse ponto de vista, toda vez que o usuário estiver com a autoestima mais baixa, ou estiver se sentindo um pouco mais entediado, ele sempre vai recorrer ao uso das redes sociais a fim de se sentir melhor e até mais satisfeito, e se isso for recorrente, ou seja, se tornar uma espécie de looping, isso poderá acabar se tornando um hábito indispensável para o usuário, podendo até progredir e se tornar um vício com o tempo. Óbvio que todo esse processo ocorre de maneira oculta e de forma inconscientemente da ciência do usuário, devido a esses efeitos causados pelo uso das redes sociais, pode-se considerar que é um software projetado para ser altamente viciante, se caso não haja precauções em relação ao seu uso.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Bem-estar Digital</h2>
+            <article>
+                <p>
+                    De longe é possível notar que isso é um problema real em nossa sociedade a partir do momento em que não é mais possível controlar o qual seria a finalidade desse alto volume de informações que são capturadas em nosso cotidiano. Como isso se trata de um problema complexo, a solução também é complexa de aplicar, pelo fato desse mercado trazer milhões de dólares para as indústrias tecnológicas, sendo praticamente um tema muito sensível quando se trata de alterar a forma sobre como eles lucram.
+                </p>
+            </article>
+            
+            <h2 class="titulo-veja-mais">Veja também</h2>
+
+            <a href="o-jogo-da-imitacao.html">
+                <article class="article-veja-mais">
+                    
+                    <div class="poster-article ">
+                        <img src="../design/img/38-facts-about-the-movie-the-imitation-game-1687665705.jpg" alt="">
+                    </div>
+                    <div class="divisor">
+                        <h3>Análise de "O jogo da imitação"</h3>
+                        <p>O jogo da imitação nos mostra a vida do britânico conhecido também como "Pai da computação". O filme nos mostra as principais dificuldades e desafios enfrentados por Alan Turing desde sua primeira concepção sobre "computadores", sendo fortemente questionado na época.</p>
+                    </div>
+                </article>
+            </a>
+
+            <footer>
+                <section id="contato">
+                    <div id="contato-img">
+                        <img src="../design/img/icons8-customer-26.png" alt="">
+                    </div>
+                    <div id="contato-identidade">
+                        <h2>Isaque G. S. Brandão</h2>
+                        <p>Estudante de T.I.</p>
+                    </div>
+                </section>
+                <section id="contato-botoes">
+                    <a href="#">Contato</a>
+                    <a href="#">Sobre</a>
+                </section>
+            </footer>
+        </div>
     </main>
 </body>
 </html>
