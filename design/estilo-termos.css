@@ -6,17 +6,19 @@ h3.termos-subtitulo {
     margin-top: 30px;
     margin-left: 15px;
 }
+
 main > #col-2 > p.termos-paragrafo {
-    font-size: 18px;
+    font-size: 20px;
     text-align: left;
     padding: 0px;
     margin: 15px;
 }
 
-ul {
+main ul {
     margin: 15px;
     max-width: 700px;
 }
+
 ul.termos-lista li {
     font-family: 'electrolize';
     font-style: italic;
