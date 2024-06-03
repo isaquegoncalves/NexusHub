@@ -76,7 +76,7 @@ header {
 
     ul a {
         color: var(--branco_fumaca);
-        font-family: 'quantico';
+        font-family: 'electrolize';
         display: block;
         text-align: left;
         text-decoration: none;
@@ -249,8 +249,7 @@ header {
         text-decoration: none;
     }
 
-
-    /*===MEDIAS PARA AJUSTES NO MENU LATERAL PARA KESTOP===*/
+    /*===MEDIAS PARA AJUSTES NO MENU LATERAL PARA DESKTOP===*/
         @media screen and (min-width:900px) {
             .toggle {
                 display: none;
@@ -274,7 +273,7 @@ header {
             padding: 20px;
 
             min-width: 234px;
-            height: 740px;
+            height: 800px;
             font-family: 'electrolize';
             font-weight: lighter;
         }
@@ -469,7 +468,7 @@ header {
 
         ul a {
             color: var(--branco_fumaca);
-            font-family: 'quantico';
+            font-family: 'electrolize';
             display: block;
             text-align: left;
             text-decoration: none;
@@ -478,6 +477,10 @@ header {
             margin: 50px auto;
             font-size: 27px;
             transition: color 0.3s ease;
+        }
+
+        ul i {
+            margin-right: 7px;
         }
 
         ul a:hover {
@@ -557,7 +560,7 @@ header {
         }
 
         .slide h1 {
-            margin-left: 50px;
+            margin-left: 85px;
             margin-top: -7px;
             font-size: 35px;
         }

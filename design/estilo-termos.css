@@ -1,0 +1,26 @@
+/*------ESTILOS PARA OS TERMOS políticas-------*/
+h3.termos-subtitulo {
+    font-family: 'quantico';
+    font-size: 25px;
+    color: var(--branco_fumaca);
+    margin-top: 30px;
+    margin-left: 15px;
+}
+main > #col-2 > p.termos-paragrafo {
+    font-size: 18px;
+    text-align: left;
+    padding: 0px;
+    margin: 15px;
+}
+
+ul {
+    margin: 15px;
+    max-width: 700px;
+}
+ul.termos-lista li {
+    font-family: 'electrolize';
+    font-style: italic;
+    color: var(--branco_fumaca);
+    margin-top: 20px;
+    list-style: inside;
+}
