@@ -105,6 +105,7 @@
             margin-bottom: 10px;
             font-family: 'quantico';
             font-size: 16px;
+            cursor: pointer;
         }
     </style>
 </head>
@@ -172,7 +173,7 @@
             <h2 class="termos-subtitulo">Entre em contato</h2>
         <p class="termos-paragrafo">Preencha o formulário abaixo para entrar em contato e  enviar sua mensagem.</p>
         
-        <form action="#" method="post">
+        <form action="../scripts/php/form-email.php" method="post">
             <fieldset>
                 <h2 id="titulo-form">Formulário de Contato</h2>
 
@@ -184,7 +185,7 @@
                 <br><br>
 
                 <div class="box-input">
-                    <input type="text" name="email" id="email" class="form" required>
+                    <input type="email" name="email" id="email" class="form" required>
                     <label for="email" class="legenda-input">Insira o seu endereço de email</label>
                 </div>
                 
