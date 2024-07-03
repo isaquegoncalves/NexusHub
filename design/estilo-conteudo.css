@@ -49,11 +49,27 @@ main > #col-2 > p.nome-data {
     margin: auto;
     margin-top: 20px;
     margin-bottom: 30px;
+    position: relative;
 }
 
 .poster-conteudo img {
     width: 100%;
     border-radius: 5px;
+}
+
+.poster-conteudo a.creditos {
+    position: absolute;
+    bottom: 1%;
+    font-family: 'electrolize';
+    font-style: italic;
+    padding: 7px;
+    border-top-right-radius: 10px;
+    border-bottom-color: rgb(143, 92, 209);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    background-color: rgba(62, 0, 206, 0.623);
+    color: var(--branco_fumaca);
+    text-align: left;
 }
 
 h2.titulo-article-conteudo{
@@ -179,6 +195,11 @@ iframe {
 
     .poster-conteudo img {
         width: 100%;
+    }
+
+    .poster-conteudo a.creditos {
+        font-size: 13px;
+        bottom: 1%;
     }
 
     h2.titulo-article-conteudo{

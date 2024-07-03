@@ -41,7 +41,7 @@
         label.legenda-input {
             transition: all 0.4s ease;
             position: absolute;
-            left: 38px;
+            left: 7%;
             bottom: 2px;
             font-size: 14px;
             font-family: 'quantico';
@@ -78,6 +78,7 @@
         .msgarea {
             height: 200px;
             width: 90%;
+            font-family: 'quantico';
             margin: 10px auto 30px auto;
             color: #fafafa;
             display: block;
@@ -173,7 +174,7 @@
             <h2 class="termos-subtitulo">Entre em contato</h2>
         <p class="termos-paragrafo">Preencha o formulário abaixo para entrar em contato e  enviar sua mensagem.</p>
         
-        <form action="../scripts/php/form-email.php" method="post">
+        <form action="https://formspree.io/f/xjkbbngn" method="post">
             <fieldset>
                 <h2 id="titulo-form">Formulário de Contato</h2>
 
@@ -193,7 +194,7 @@
 
                 <div class="box-input">
                     <h3>Mensagem</h3>
-                    <textarea name="textarea" id="textarea" class="msgarea form"></textarea>
+                    <textarea name="textarea" id="textarea" placeholder="Digite sua mensagem aqui" class="msgarea form"></textarea>
                 </div>
 
                 <input type="submit" value="Enviar" id="botao-enviar">

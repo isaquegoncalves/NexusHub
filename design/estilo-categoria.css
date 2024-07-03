@@ -2,6 +2,10 @@
     margin: auto;
 }
 
+main > #col-2 > p.categoria {
+    font-size: 19px;
+}
+
 article h3 {
     text-align: left;
 }
