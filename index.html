@@ -6,7 +6,19 @@
     <title>NexusHub</title>
     <link rel="shortcut icon" href="design/img/favicon-logo.ico" type="image/x-icon">
     <link rel="stylesheet" href="design/estilos-homepage.css">
+
+    <!--GALERIA DE ÍCONES-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!--SNIPPET DO ADSENSE-->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4119802865459707"
+     crossorigin="anonymous"></script>
+
+    <!--CONSENTIMENTO DE COOKIES-->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+
+    <script src="scripts/consentimento-cookie.js"></script>
 </head>
 <body>
     <label> <!----SIDE BAR(Mobile)----->
@@ -79,8 +91,10 @@
             <h2>Tópicos do Momento</h2>
             <p>Confira os principais temas mais recentes, discutidos e populares do momento.</p>
 
+            <!--POSTER PRINCIPAL!!!-->
+
             <!--GTA 6-->
-            <article>
+            <article class="index1">
                 <a href="conteudos/jogos/gta6.html">
                     <div class="poster-article">
                     <img src="design/img/banner-gta6.jpg" alt="poster do jogo gta 6">
@@ -91,72 +105,102 @@
                 </a>
             </article>
 
-            <!--BLACK OPS 6-->
-            <article>
-                <a href="conteudos/jogos/blackops6.html">
-                    <div class="poster-article">
-                    <img src="design/img/banner-blackops6.jpg" alt="poster do jogo black ops 6">
-                    </div>
+            <!--Article Principal-->
+            <div class="article-lateral">
 
-                    <h3>Tudo sobre o novo Black Ops 6</h3>
-                    <p>"Call of Duty: Black Ops 6" é um futuro jogo de tiro em primeira pessoa da popular sub-série Black Ops, desenvolvido pela Treyarch e publicado pela Activision. O jogo promete uma experiência de combate intensa e narrativa profunda, continuando a tradição da série.</p>
-                </a>
-            </article>
+                <!--BLACK OPS 6-->
+                <article class="index2">
+                    <a href="conteudos/jogos/blackops6.html">
+                        <div class="poster-article">
+                        <img src="design/img/banner-blackops6.jpg" alt="poster do jogo black ops 6">
+                        </div>
 
-            <!--DEEP WEB: O SHOW DA MORTE-->
-            <article>
-                <a href="conteudos/filmes/deep-web-o-show-da-morte.html">
-                    <div class="poster-article">
-                    <img src="design/img/banner-deepweboshowdamorte.jpg" alt="poster do filme deep web o show da morte">
-                    </div>
+                        <h3>Tudo sobre o novo Black Ops 6</h3>
+                        <p>"Call of Duty: Black Ops 6" é um futuro jogo de tiro em primeira pessoa da popular sub-série Black Ops, desenvolvido pela Treyarch e publicado pela Activision. O jogo promete uma experiência de combate intensa e narrativa profunda, continuando a tradição da série.</p>
+                    </a>
+                </article>
 
-                    <h3>Deep Web: O Show da Morte"</h3>
-                    <p>"Deep Web: O Show da Morte" é um thriller que mergulha nos perigos da internet obscura, explorando os segredos sombrios da Deep Web e os riscos mortais que ela apresenta.</p>
-                </a>
-            </article>
+                <!--DEEP WEB: O SHOW DA MORTE-->
+                <article class="index2">
+                    <a href="conteudos/filmes/deep-web-o-show-da-morte.html">
+                        <div class="poster-article">
+                        <img src="design/img/banner-deepweboshowdamorte.jpg" alt="poster do filme deep web o show da morte">
+                        </div>
 
-            <!--RESISTENCIA-->
-            <article>
-                <a href="conteudos/filmes/resistencia.html">
-                    <div class="poster-article">
-                    <img src="design/img/banner-resistencia.jpg" alt="poster do filme resistência">
-                    </div>
+                        <h3>Deep Web: O Show da Morte"</h3>
+                        <p>"Deep Web: O Show da Morte" é um thriller que mergulha nos perigos da internet obscura, explorando os segredos sombrios da Deep Web e os riscos mortais que ela apresenta.</p>
+                    </a>
+                </article>
 
-                    <h3>Conheça "Resistência"</h3>
-                    <p>
-                        "Resistência" é um thriller de ficção científica onde humanos lutam contra uma inteligência artificial rebelde que ameaça exterminar a humanidade. A história explora temas de sobrevivência e moralidade em um futuro distópico.
-                    </p>
-                </a>
-            </article>
+                <!--RESISTÊNCIA-->
+                <article class="index2">
+                    <a href="conteudos/filmes/resistencia.html">
+                        <div class="poster-article">
+                        <img src="design/img/banner-resistencia.jpg" alt="poster do filme resistência">
+                        </div>
 
-            <!--LIFE IS STRANGE DOUBLE EXPOSURE-->
-            <article>
-                <a href="conteudos/jogos/life-is-strange-double-exposure.html">
-                    <div class="poster-article">
-                    <img src="design/img/banner-lisdoubleexposure.jpg" alt="poster do jogo life is strange">
-                    </div>
+                        <h3>Conheça "Resistência"</h3>
+                        <p>
+                            "Resistência" é um thriller de ficção científica onde humanos lutam contra uma inteligência artificial rebelde que ameaça exterminar a humanidade. A história explora temas de sobrevivência e moralidade em um futuro distópico.
+                        </p>
+                    </a>
+                </article>
 
-                    <h3>Tudo sobre o novo "Life is Strange Double Exposure"</h3>
-                    <p>Max Caulfield retorna em "Life is Strange: Double Exposure", onde deve resolver e prevenir o assassinato de sua nova amiga Safi navegando entre duas realidades paralelas.</p>
-                </a>
-            </article>
+                <!--LIFE IS STRANGE DOUBLE EXPOSURE-->
+                <article class="index2">
+                    <a href="conteudos/jogos/life-is-strange-double-exposure.html">
+                        <div class="poster-article">
+                        <img src="design/img/banner-lisdoubleexposure.jpg" alt="poster do jogo life is strange">
+                        </div>
 
-            <!--THE GREAT HACK-->
-            <article>
-                <a href="the-great-hack.html">
-                    <div class="poster-article">
-                    <img src="design/img/banner-thegreathack.jpg" alt="poster do documentário the great hack">
-                    </div>
+                        <h3>Tudo sobre o novo "Life is Strange Double Exposure"</h3>
+                        <p>Max Caulfield retorna em "Life is Strange: Double Exposure", onde deve resolver e prevenir o assassinato de sua nova amiga Safi navegando entre duas realidades paralelas.</p>
+                    </a>
+                </article>
 
-                    <h3>Original Netflix: The Great Hack</h3>
-                    <p>Explorando o escândalo do Facebook-Cambridge Analytica, o documentário examina como os dados pessoais foram explorados para influenciar eleições e manipular a opinião pública.</p>
-                </a>
-            </article>
+                <!--BALDUR'S GATE 3-->
+                <article class="index2">
+                    <a href="conteudos/jogos/baldurs-gate3.html">
+                        <div class="poster-article">
+                        <img src="../../design/img/banner-baldursgate3.avif" alt="">
+                        </div>
 
-        </div> <!--Conteúdo Principal end-->
+                        <h3>Por que Baldur's Gate 3 venceu o Game Awards?</h3>
+                        <p>Situado no universo de Dungeons & Dragons, o jogo segue um grupo de heróis que devem enfrentar uma ameaça crescente enquanto lidam com os efeitos de um parasita ilítico implantado em suas mentes.</p>
+                    </a>
+                </article>
+
+                <!--THE GREAT HACK-->
+                <article class="index2">
+                    <a href="conteudos/documentarios/the-great-hack.html">
+                        <div class="poster-article">
+                        <img src="design/img/banner-thegreathack.jpg" alt="poster do documentário the great hack">
+                        </div>
+
+                        <h3>Original Netflix: The Great Hack</h3>
+                        <p>Explorando o escândalo do Facebook-Cambridge Analytica, o documentário examina como os dados pessoais foram explorados para influenciar eleições e manipular a opinião pública.</p>
+                    </a>
+                </article>
+
+            </div> <!--Articles Secundários end-->
+        </div> <!--Coluna #col-2 end-->
 
         <div id="col-3"> <!--Espaço para AD-->
             <h2>AD</h2>
+
+            <!--Bloco de AD-->
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4119802865459707"
+                crossorigin="anonymous"></script>
+            <!-- AD Vertical -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-4119802865459707"
+                data-ad-slot="2361429988"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
         </div>
     </main>
 

@@ -8,6 +8,7 @@ h3.termos-subtitulo {
 }
 
 main > #col-2 > p.termos-paragrafo {
+    max-width: none;
     font-size: 20px;
     text-align: left;
     padding: 0px;

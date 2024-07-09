@@ -169,6 +169,7 @@ header {
         justify-content: center;
         width: 100%;
         margin-top: -77px;
+        z-index: 2;
     }
 
     nav h1 {
@@ -252,6 +253,19 @@ header {
         text-decoration: none;
     }
 
+    a.link-texto {
+        display: inline;
+        font-family: 'quantico';
+        font-weight: bold;
+        font-style: italic;
+        color: #e389ff;
+    }
+
+    sup {
+        font-size: 12px;
+    }
+
+
     /*===MEDIAS PARA AJUSTES NO MENU LATERAL PARA DESKTOP===*/
         @media screen and (min-width:900px) {
             .toggle {
@@ -277,7 +291,7 @@ header {
             
             padding: 20px;
 
-            min-width: 234px;
+            min-width: 264px;
             height: 800px;
             font-family: 'electrolize';
             font-weight: lighter;
@@ -299,11 +313,13 @@ header {
     /*=====COL-2======*/
         #col-2{
             margin: auto;
+            width: 80%;
             padding: 20px;
+            padding-top: 0px;
         }
 
         #col-2 > p {
-            margin: 15px;
+            margin: auto;
             margin-top: 30px;
             max-width: 700px;
             font-size: 19px;
@@ -314,10 +330,41 @@ header {
     /*=====COL-3======*/
         #col-3{
             background-color: rgba(70, 1, 116, 0.205);
-            width: 228px;
+            width: 20%;
+            margin: 5px;
     }
 
-    /*============COL-2(start)==========*/
+    /*=======================COL-2(start)======================*/
+
+    /*MEDIA PARA O INDEX DE DESKTOPS*/
+    @media screen and (min-width:1100px) {  
+        /***********ARTICLES(index)*************/
+            article.index1 {
+                max-width: none;
+                width: 90%;
+                margin-bottom: 0px;
+            }
+
+            .article-lateral {
+                width: 90%;
+                display: flex;
+                margin: auto;
+                gap: 16px;
+                flex-wrap: wrap;
+            }
+
+            article.index2 {
+                width: 48.5%;
+                margin-top: 20px;
+            }
+
+            article.index2 h3, article.index2 p {
+                font-size: 1em;
+            }
+
+            
+        /***********ARTICLES(end)*************/
+    }
         article {
             background-color: var(--ultravioleta);
             max-width: 650px;
@@ -346,6 +393,17 @@ header {
             width: 100%;
             margin-bottom: 10px;
         }
+
+            /*----ANIMAÇÃO DE FADE-OUT E ZOOM-OUT------*/
+            .poster-article > img {
+                transition: all 0.6s ease ;
+            }
+
+            article:hover > a > div.poster-article > img {
+                transform: scale(0.95);
+                filter: brightness(0.6);
+            }
+            /*------------------------------------------*/
 
         .poster-article > img {
             width: 100%;
@@ -584,6 +642,7 @@ header {
 
         #col-2 {
             padding: 0px;
+            width: 100%;
         }
 
         article {
