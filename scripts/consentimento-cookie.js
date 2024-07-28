@@ -10,10 +10,10 @@ window.cookieconsent.initialise({
     },
     "theme": "classic",
     "content": {
-    "message": "Este site usa cookies para garantir que você tenha a melhor experiência.",
+    "message": "Utilizamos cookies para que você tenha a melhor experiência. Você pode acessar a nossa ",
     "dismiss": "Entendi!",
-    "link": "Nossa Política de Cookies",
-    "href": "politicas-e-termos/politica-de-privacidade.html"
+    "link": "Política de Cookies",
+    "href": "politicas-e-termos/politica-de-cookies.html"
     }
 });
 });

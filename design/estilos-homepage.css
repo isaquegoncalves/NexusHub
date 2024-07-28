@@ -265,6 +265,11 @@ header {
         font-size: 12px;
     }
 
+    /*Display none: pra não interferir na visualização do desktop*/
+    div.anuncio {
+        display: none;
+    }
+
 
     /*===MEDIAS PARA AJUSTES NO MENU LATERAL PARA DESKTOP===*/
         @media screen and (min-width:900px) {
@@ -643,6 +648,10 @@ header {
         #col-2 {
             padding: 0px;
             width: 100%;
+        }
+
+        div.anuncio {
+            display: block;
         }
 
         article {
