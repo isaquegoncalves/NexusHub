@@ -13,8 +13,8 @@ echo '
 
         <h2>Gerais</h2>
         <ul>
-            <li><a href="../../politicas-e-termos/sobre.html"><i class="fa-solid fa-user-tie"></i> Sobre</a></li>
-            <li><a href="../../politicas-e-termos/contato.php"><i class="fa-solid fa-envelope"></i> Contato</a></li>
+            <li><a href="../../politicas-e-termos/sobre.php"><i class="fa-solid fa-user-tie"></i> Sobre</a></li>
+            <li><a href="../../politicas-e-termos/contato.html"><i class="fa-solid fa-envelope"></i> Contato</a></li>
             <li><a href="../../politicas-e-termos/politica-de-privacidade.php"><i class="fa-solid fa-lock"></i> Política de privacidade</a></li>
             <li><a href="../../politicas-e-termos/termos-de-servico.php"><i class="fa-solid fa-file"></i> Termos de serviço</a></li>
             <li><a href="../../politicas-e-termos/politica-de-cookies.php"><i class="fa-solid fa-cookie-bite"></i> Política de cookies</a></li>
