@@ -29,15 +29,31 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>"O Preço do Amanhã" é um filme de ficção científica dirigido por Andrew Niccol e lançado em 2011. Situado em um futuro distópico onde o tempo é a moeda de troca, o filme oferece uma visão fascinante e perturbadora de uma sociedade onde cada segundo de vida tem um valor literalmente mensurável.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">O "tempo é dinheiro"</h2>
             <article>
                 <p>
-                    No mundo de "O Preço do Amanhã", as pessoas param de envelhecer aos 25 anos, mas uma contagem regressiva começa. Para continuar vivendo, elas devem ganhar ou comprar mais tempo. Will Salas, interpretado por Justin Timberlake, é um jovem trabalhador que vive no gueto e luta para sobreviver dia após dia. Sua vida muda drasticamente quando ele conhece um homem rico que decide compartilhar com ele uma quantidade considerável de tempo.
+                    "O Preço do Amanhã" é um filme de ficção científica dirigido por 
+                    <a href="https://www.google.com/search?q=Andrew+Niccol" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Andrew Niccol
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    e lançado em 2011. Situado em um futuro distópico onde o <strong>tempo</strong> é a <strong>moeda de troca</strong>, o filme oferece uma visão fascinante e perturbadora de uma sociedade onde cada segundo de vida tem um valor literalmente mensurável.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">O tempo define a vida</h2>
+            <article>
+                <p>
+                    No mundo de "O Preço do Amanhã", as pessoas param de envelhecer aos 25 anos, mas uma contagem regressiva começa. Para continuar vivendo, elas devem ganhar ou comprar mais tempo. 
+                    <strong>Will Salas</strong>, interpretado por 
+                    <a href="https://www.google.com/search?q=Justin+Timberlake" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Justin Timberlake
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, é um jovem trabalhador que vive no gueto e luta para sobreviver dia após dia. Sua vida muda drasticamente quando ele conhece um homem rico que decide compartilhar com ele uma quantidade considerável de tempo.
                 </p>
             </article>
 
@@ -65,10 +81,16 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Uma corrida contra o tempo</h2>
             <article>
                 <p>
-                    A partir desse encontro, Will se vê envolvido em uma conspiração perigosa que o coloca contra as autoridades e os poderosos da sociedade. Ele se une a Sylvia Weis, interpretada por Amanda Seyfried, uma herdeira de uma fortuna que está cansada da vida privilegiada que leva. Juntos, eles embarcam em uma jornada para desafiar o sistema injusto que governa o mundo deles e mudar o destino da humanidade.
+                    A partir desse encontro, <strong>Will</strong> se vê envolvido em uma conspiração perigosa que o coloca contra as autoridades e os poderosos da sociedade. Ele se une a 
+                    <a href="https://www.google.com/search?q=Amanda+Seyfried" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Amanda Seyfried
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, uma herdeira de uma fortuna que está cansada da vida privilegiada que leva. Juntos, eles embarcam em uma jornada para desafiar o sistema injusto que governa o mundo deles e mudar o destino da humanidade.
                 </p>
 
                 <div class="poster-conteudo">
@@ -81,7 +103,14 @@
                 </div>
 
                 <p>
-                    Ao longo do filme, somos levados a refletir sobre questões de desigualdade social, injustiça econômica e o valor do tempo. A trama oferece uma mistura emocionante de ação, suspense e drama, mantendo o espectador envolvido do início ao fim. A direção de Andrew Niccol cria um mundo visualmente impressionante, repleto de imagens arrebatadoras e efeitos visuais marcantes.
+                    Ao longo do filme, somos levados a refletir sobre questões de desigualdade social, injustiça econômica e o valor do tempo. A trama oferece uma mistura emocionante de ação, suspense e drama, mantendo o espectador envolvido do início ao fim. A direção de 
+                    <a href="https://www.google.com/search?q=Andrew+Niccol" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Andrew Niccol
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    cria um mundo visualmente impressionante, repleto de imagens arrebatadoras e efeitos visuais marcantes.
                 </p>
             </article>
 
@@ -100,7 +129,7 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">O tempo é tudo</h2>
             <article>
                 <p>
                     "O Preço do Amanhã" é um thriller de ficção científica que vai além do entretenimento superficial, explorando questões profundas e provocativas sobre a natureza da vida, o poder do dinheiro e a injustiça social. Com performances sólidas, uma trama envolvente e uma visão distópica intrigante, o filme oferece uma experiência cinematográfica cativante que fica na mente do espectador muito depois que os créditos finais rolam. É um lembrete poderoso de que, mesmo em um mundo onde o tempo é literalmente dinheiro, há coisas que o dinheiro não pode comprar.

@@ -31,13 +31,29 @@
 
             <h2 class="titulo-article-conteudo">Apresentação</h2>
             <article>
-                <p>"Jogador Número 1", de Ernest Cline, é uma emocionante jornada de ficção científica ambientada em um futuro distópico, onde a realidade virtual oferece uma escapada das dificuldades da vida real. Publicado em 2011, o livro mistura uma narrativa de ação e aventura com uma profunda reverência à cultura pop dos anos 80, criando uma história cativante que ressoa com leitores de todas as idades.</p>
+                <p>
+                    "Jogador Número 1", de 
+                    <a href="https://www.google.com/search?q=Ernest+Cline" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Ernest Cline
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, é uma emocionante jornada de ficção científica ambientada em um futuro distópico, onde a realidade virtual oferece uma escapada das dificuldades da vida real. Publicado em 2011, o livro mistura uma narrativa de ação e aventura com uma profunda reverência à cultura pop dos anos 80, criando uma história cativante que ressoa com leitores de todas as idades.
+
+                </p>
             </article>
 
             <h2 class="titulo-article-conteudo">Início</h2>
             <article>
                 <p>
-                    O enredo se passa no ano de 2045, quando o mundo está mergulhado em crises econômicas e sociais. A maioria das pessoas busca refúgio no OASIS, um vasto universo de realidade virtual criado por James Halliday. Antes de sua morte, Halliday lançou um desafio épico: encontrar o Easter egg escondido no OASIS. Quem o encontrar herdará sua vasta fortuna e o controle do OASIS. Wade Watts, um adolescente órfão e destituído, encontra-se entre os milhões de "gunters" (caçadores de Easter eggs) que sonham em desvendar o mistério.
+                    O enredo se passa no ano de 2045, quando o mundo está mergulhado em crises econômicas e sociais. A maioria das pessoas busca refúgio no <strong>OASIS</strong>, um vasto universo de realidade virtual criado por 
+                    <a href="https://www.google.com/search?q=James+Halliday" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        James Halliday
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>. Antes de sua morte, Halliday lançou um desafio épico: encontrar o Easter egg escondido no OASIS. Quem o encontrar herdará sua vasta fortuna e o controle do OASIS. 
+                    <strong>Wade Watts</strong>, um adolescente órfão e destituído, encontra-se entre os milhões de "gunters" (caçadores de Easter eggs) que sonham em desvendar o mistério.
                 </p>
             </article>
 
@@ -68,7 +84,21 @@
             <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
             <article>
                 <p>
-                    Wade, conhecido pelo seu avatar Parzival, dedica sua vida à caça ao Easter egg, estudando obsessivamente a vida e as paixões de Halliday, incluindo jogos de arcade, filmes e música dos anos 80. Sua jornada começa a ganhar forma quando ele resolve o primeiro de três complexos desafios, desencadeando uma série de eventos que atrai a atenção tanto de outros gunters quanto da IOI (Innovative Online Industries), uma corporação sinistra que deseja controlar o OASIS a qualquer custo.
+                <strong>Wade</strong>, conhecido pelo seu avatar 
+                <strong>Parzival</strong>, dedica sua vida à caça ao Easter egg, estudando obsessivamente a vida e as paixões de 
+                <a href="https://www.google.com/search?q=James+Halliday" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    James Halliday
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                </a>, incluindo jogos de arcade, filmes e música dos anos 80. Sua jornada começa a ganhar forma quando ele resolve o primeiro de três complexos desafios, desencadeando uma série de eventos que atrai a atenção tanto de outros gunters quanto da 
+                <a href="https://www.google.com/search?q=Innovative+Online+Industries" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    IOI (Innovative Online Industries)
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                </a>, uma corporação sinistra que deseja controlar o OASIS a qualquer custo.
+
                 </p>
 
                 <div class="poster-conteudo">
@@ -81,7 +111,9 @@
                 </div>
 
                 <p>
-                    A narrativa se aprofunda à medida que Wade forma alianças com outros avatares, como Art3mis, uma talentosa e determinada gunter, e Aech, seu melhor amigo no OASIS. Juntos, eles enfrentam perigos reais e virtuais, navegando por quebra-cabeças e batalhas que testam sua coragem, inteligência e lealdade.
+                    A narrativa se aprofunda à medida que <strong>Wade</strong> forma alianças com outros avatares, como 
+                    <strong>Art3mis</strong>, uma talentosa e determinada gunter, e 
+                    <strong>Aech</strong>, seu melhor amigo no OASIS. Juntos, eles enfrentam perigos reais e virtuais, navegando por quebra-cabeças e batalhas que testam sua coragem, inteligência e lealdade.
                 </p>
             </article>
 
@@ -103,9 +135,19 @@
             <h2 class="titulo-article-conteudo">Conclusão</h2>
             <article>
                 <p>
-                    A busca pelo Easter egg culmina em um confronto épico com a IOI, onde Wade e seus amigos devem usar todas as suas habilidades e conhecimentos para triunfar. No processo, Wade aprende valiosas lições sobre amizade, sacrifício e o valor da realidade. A vitória não é apenas sobre ganhar o prêmio, mas também sobre preservar a liberdade e a integridade do OASIS.
-
-                    "Jogador Número 1" é uma leitura envolvente que celebra a criatividade e a nostalgia, enquanto alerta para os perigos da dependência tecnológica. Através de uma narrativa vibrante e personagens memoráveis, Ernest Cline oferece uma experiência única que é tanto uma homenagem à era dos anos 80 quanto uma reflexão sobre o futuro da humanidade e da tecnologia.
+                    A busca pelo Easter egg culmina em um confronto épico com a 
+                    <a href="https://www.google.com/search?q=Innovative+Online+Industries" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        IOI
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, onde <strong>Wade</strong> e seus amigos devem usar todas as suas habilidades e conhecimentos para triunfar. No processo, <strong>Wade</strong> aprende valiosas lições sobre amizade, sacrifício e o valor da realidade. A vitória não é apenas sobre ganhar o prêmio, mas também sobre preservar a liberdade e a integridade do OASIS. "Jogador Número 1" é uma leitura envolvente que celebra a criatividade e a nostalgia, enquanto alerta para os perigos da dependência tecnológica. Através de uma narrativa vibrante e personagens memoráveis, 
+                    <a href="https://www.google.com/search?q=Ernest+Cline" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Ernest Cline
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> oferece uma experiência única que é tanto uma homenagem à era dos anos 80 quanto uma reflexão sobre o futuro da humanidade e da tecnologia.
                 </p>
             </article>
             

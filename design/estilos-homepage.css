@@ -258,7 +258,8 @@ header {
         font-family: 'quantico';
         font-weight: bold;
         font-style: italic;
-        color: #e389ff;
+        color: #e17dff;
+        text-indent: 0px;
     }
 
     sup {

@@ -31,17 +31,49 @@
 
             <h2 class="titulo-article-conteudo">Apresentação</h2>
             <article>
-                <p>"Tron: O Legado", dirigido por Joseph Kosinski e lançado em 2010, é a aguardada sequência do clássico de ficção científica de 1982, "Tron". Combinando efeitos visuais de ponta com uma trilha sonora eletrônica envolvente, o filme traz de volta personagens icônicos e introduz novos elementos para cativar tanto os fãs antigos quanto uma nova geração de espectadores.</p>
+                <p>
+                    "Tron: O Legado", dirigido por 
+                    <a href="https://www.google.com/search?q=Joseph+Kosinski" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Joseph Kosinski
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    e lançado em 2010, é a aguardada sequência do clássico de ficção científica de 1982, "Tron". Combinando efeitos visuais de ponta com uma trilha sonora eletrônica envolvente, o filme traz de volta personagens icônicos e introduz novos elementos para cativar tanto os fãs antigos quanto uma nova geração de espectadores.
+                </p>
             </article>
 
             <h2 class="titulo-article-conteudo">Início</h2>
             <article>
                 <p>
-                    A história começa com Sam Flynn (Garrett Hedlund), o filho de Kevin Flynn (Jeff Bridges), o protagonista do filme original. Kevin desapareceu misteriosamente há 20 anos, deixando para trás uma empresa de tecnologia e um filho em busca de respostas. Sam, agora adulto e um rebelde tecnológico, é atraído para o antigo fliperama de seu pai, onde descobre um segredo que o transporta para o mundo digital conhecido como a Grade.
+                    A história começa com 
+                    <strong>Sam Flynn</strong> 
+                    <a href="https://www.google.com/search?q=Garrett+Hedlund" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Garrett Hedlund
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, o filho de 
+                    <strong>Kevin Flynn</strong> 
+                    <a href="https://www.google.com/search?q=Jeff+Bridges" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Jeff Bridges
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, o protagonista do filme original. Kevin desapareceu misteriosamente há 20 anos, deixando para trás uma empresa de tecnologia e um filho em busca de respostas. <strong>Sam</strong>, agora adulto e um rebelde tecnológico, é atraído para o antigo fliperama de seu pai, onde descobre um segredo que o transporta para o mundo digital conhecido como a Grade.
                 </p>
 
                 <p>
-                    Dentro da Grade, Sam se encontra em um ambiente neon pulsante e perigoso, onde programas lutam pela sobrevivência em arenas digitais. Ele é rapidamente capturado e forçado a competir em jogos de vida ou morte. Com a ajuda de Quorra (Olivia Wilde), uma guerreira habilidosa e fiel aliada de Kevin, Sam embarca em uma missão para encontrar seu pai e escapar do domínio do tirânico programa CLU, uma versão digitalizada de Kevin Flynn que se rebelou contra seu criador.
+                    Dentro da Grade, <strong>Sam</strong> se encontra em um ambiente neon pulsante e perigoso, onde programas lutam pela sobrevivência em arenas digitais. Ele é rapidamente capturado e forçado a competir em jogos de vida ou morte. Com a ajuda de 
+                    <strong>Quorra</strong> 
+                    <a href="https://www.google.com/search?q=Olivia+Wilde" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Olivia Wilde
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, uma guerreira habilidosa e fiel aliada de Kevin, <strong>Sam</strong> embarca em uma missão para encontrar seu pai e escapar do domínio do tirânico programa 
+                    <strong>CLU</strong>, uma versão digitalizada de 
+                    <strong>Kevin Flynn</strong> que se rebelou contra seu criador.
                 </p>
             </article>
             
@@ -71,7 +103,9 @@
             <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
             <article>
                 <p>
-                    À medida que Sam navega pela Grade, ele descobre a complexidade do mundo digital e os conflitos internos que ameaçam sua própria existência. O reencontro com seu pai revela segredos profundos sobre a criação da Grade, a rebelião de CLU e a luta entre liberdade e controle dentro do universo digital. Kevin Flynn, agora um recluso sábio, oferece orientação a Sam enquanto eles planejam uma fuga audaciosa.
+                    À medida que <strong>Sam</strong> navega pela Grade, ele descobre a complexidade do mundo digital e os conflitos internos que ameaçam sua própria existência. O reencontro com seu pai revela segredos profundos sobre a criação da Grade, a rebelião de 
+                    <strong>CLU</strong> e a luta entre liberdade e controle dentro do universo digital. 
+                    <strong>Kevin Flynn</strong>, agora um recluso sábio, oferece orientação a <strong>Sam</strong> enquanto eles planejam uma fuga audaciosa.
                 </p>
 
                 <div class="poster-conteudo">
@@ -84,11 +118,25 @@
                 </div>
 
                 <p>
-                    A cinematografia de Claudio Miranda captura a beleza e a frieza do mundo digital, criando uma estética futurista deslumbrante. Cada cena é repleta de detalhes brilhantes e contrastes visuais que enfatizam a natureza única da Grade. A trilha sonora do Daft Punk adiciona uma camada rítmica e pulsante à ação, tornando-se uma parte integral da experiência cinematográfica.
+                    A cinematografia de 
+                    <a href="https://www.google.com/search?q=Claudio+Miranda" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Claudio Miranda
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> captura a beleza e a frieza do mundo digital, criando uma estética futurista deslumbrante. Cada cena é repleta de detalhes brilhantes e contrastes visuais que enfatizam a natureza única da Grade. A trilha sonora do 
+                    <a href="https://www.google.com/search?q=Daft+Punk" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Daft Punk
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> adiciona uma camada rítmica e pulsante à ação, tornando-se uma parte integral da experiência cinematográfica.
                 </p>
                     
                 <p>
-                    O desenvolvimento dos personagens é equilibrado com sequências de ação intensa e cenas introspectivas que exploram temas de identidade, legado e a relação entre criador e criação. As batalhas de discos e corridas de light cycles são espetaculares e emocionantes, proporcionando uma sensação de adrenalina e urgência.
+                    O desenvolvimento dos personagens é equilibrado com sequências de ação intensa e cenas introspectivas que exploram temas de identidade, legado e a relação entre criador e criação. As batalhas de discos e corridas de 
+                    <strong>light cycles</strong> são espetaculares e emocionantes, proporcionando uma sensação de adrenalina e urgência.
+
                 </p>
             </article>
 
@@ -110,7 +158,31 @@
             <h2 class="titulo-article-conteudo">Conclusão</h2>
             <article>
                 <p>
-                    "Tron: O Legado" é uma sequência que honra o espírito do filme original enquanto expande seu universo de maneiras inovadoras e visualmente impressionantes. A direção de Joseph Kosinski, combinada com as performances convincentes de Jeff Bridges, Garrett Hedlund e Olivia Wilde, cria uma narrativa envolvente que mantém o público cativado. Embora a história possa seguir alguns tropos familiares, a execução estilística e a profundidade temática tornam "Tron: O Legado" uma experiência cinematográfica memorável. É um filme que celebra a inovação tecnológica e a busca pela conexão humana em um mundo cada vez mais digitalizado.
+                    "Tron: O Legado" é uma sequência que honra o espírito do filme original enquanto expande seu universo de maneiras inovadoras e visualmente impressionantes. A direção de 
+                    <a href="https://www.google.com/search?q=Joseph+Kosinski" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Joseph Kosinski
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, combinada com as performances convincentes de 
+                    <a href="https://www.google.com/search?q=Jeff+Bridges" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Jeff Bridges
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, 
+                    <a href="https://www.google.com/search?q=Garrett+Hedlund" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Garrett Hedlund
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e 
+                    <a href="https://www.google.com/search?q=Olivia+Wilde" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Olivia Wilde
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, cria uma narrativa envolvente que mantém o público cativado. Embora a história possa seguir alguns tropos familiares, a execução estilística e a profundidade temática tornam "Tron: O Legado" uma experiência cinematográfica memorável. É um filme que celebra a inovação tecnológica e a busca pela conexão humana em um mundo cada vez mais digitalizado.
                 </p>
             </article>
             

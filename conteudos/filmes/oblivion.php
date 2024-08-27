@@ -29,19 +29,49 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>"Oblivion", dirigido por Joseph Kosinski e lançado em 2013, é um filme de ficção científica que mistura ação e mistério em um cenário pós-apocalíptico. Com Tom Cruise no papel principal, o filme oferece uma experiência visualmente deslumbrante e uma trama intrigante que mantém os espectadores envolvidos do início ao fim.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Ficção pós-apocalíptica</h2>
             <article>
                 <p>
-                    Ambientado no ano de 2077, "Oblivion" apresenta uma Terra devastada por décadas de guerra contra uma raça alienígena conhecida como Scavengers. A maior parte da humanidade foi evacuada para Titã, uma lua de Saturno, enquanto alguns poucos humanos permanecem no planeta para supervisionar a extração de recursos vitais. Tom Cruise interpreta Jack Harper, um técnico de drones encarregado de manter os equipamentos que protegem as plataformas de extração.
+                    Oblivion, dirigido por 
+                    <a href="https://www.google.com/search?q=Joseph+Kosinski" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Joseph Kosinski
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    e lançado em 2013, é um filme de ficção científica que mistura ação e mistério em um cenário pós-apocalíptico. Com 
+                    <a href="https://www.google.com/search?q=Tom+Cruise" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Tom Cruise
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    no papel principal, o filme oferece uma experiência visualmente deslumbrante e uma trama intrigante que mantém os espectadores envolvidos do início ao fim.
+
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Um mundo devastado</h2>
+            <article>
+                <p>
+                    Ambientado no ano de 2077, "Oblivion" apresenta uma Terra devastada por décadas de guerra contra uma raça alienígena conhecida como <strong>Scavengers</strong>. A maior parte da humanidade foi evacuada para <strong>Titã</strong>, uma lua de Saturno, enquanto alguns poucos humanos permanecem no planeta para supervisionar a extração de recursos vitais. 
+                    <a href="https://www.google.com/search?q=Tom+Cruise" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Tom Cruise
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    interpreta <strong>Jack Harper</strong>, um técnico de drones encarregado de manter os equipamentos que protegem as plataformas de extração.
                 </p>
 
                 <p>
-                    Jack vive em uma torre elevada acima das nuvens com sua parceira Victoria (Andrea Riseborough), com quem mantém uma vida rotineira e segura. No entanto, Jack é assombrado por sonhos e flashbacks de uma vida que não se lembra de ter vivido, alimentando sua curiosidade sobre o passado e sua verdadeira identidade.
+                    <strong>Jack</strong> vive em uma torre elevada acima das nuvens com sua parceira, interpretada por 
+                    <a href="https://www.google.com/search?q=Andrea+Riseborough" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Andrea Riseborough
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, com quem mantém uma vida rotineira e segura. No entanto, <strong>Jack</strong> é assombrado por sonhos e flashbacks de uma vida que não se lembra de ter vivido, alimentando sua curiosidade sobre o passado e sua verdadeira identidade.
                 </p>
             </article>
 
@@ -69,14 +99,33 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Revelações de um passado inexistente</h2>
             <article>
                 <p>
-                    A rotina de Jack sofre uma reviravolta quando ele resgata uma misteriosa mulher chamada Julia (Olga Kurylenko) de uma nave espacial acidentada. Sua chegada desencadeia uma série de eventos que levam Jack a questionar tudo o que ele pensava saber sobre a guerra, seu papel nela e a própria realidade em que vive. Através de uma série de revelações chocantes, Jack descobre segredos enterrados sobre a verdadeira natureza da invasão alienígena e seu próprio passado.
+                    A rotina de <strong>Jack</strong> sofre uma reviravolta quando ele resgata uma misteriosa mulher, interpretada por  
+                    <a href="https://www.google.com/search?q=Olga+Kurylenko" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Olga Kurylenko
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> de uma nave espacial acidentada. Sua chegada desencadeia uma série de eventos que levam <strong>Jack</strong> a questionar tudo o que ele pensava saber sobre a guerra, seu papel nela e a própria realidade em que vive. Através de uma série de revelações chocantes, <strong>Jack</strong> descobre segredos enterrados sobre a verdadeira natureza da invasão alienígena e seu próprio passado.
                 </p>
 
                 <p>
-                    A cinematografia de Claudio Miranda é um dos pontos altos do filme, com paisagens pós-apocalípticas deslumbrantes e efeitos visuais impressionantes que criam um ambiente futurista imersivo. A trilha sonora, composta por M83, complementa perfeitamente a atmosfera do filme, adicionando uma camada de emoção e tensão à narrativa.
+                    A cinematografia de 
+                    <a href="https://www.google.com/search?q=Claudio+Miranda" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Claudio Miranda
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> é um dos pontos altos do filme, com paisagens pós-apocalípticas deslumbrantes e efeitos visuais impressionantes que criam um ambiente futurista imersivo. A trilha sonora, composta por 
+                    <a href="https://www.google.com/search?q=M83" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        M83
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, complementa perfeitamente a atmosfera do filme, adicionando uma camada de emoção e tensão à narrativa.
+
                 </p>
 
                 <div class="poster-conteudo">
@@ -89,7 +138,7 @@
                 </div>
                     
                 <p>
-                    Enquanto Jack desenterra verdades sobre a missão que ele e Victoria executam, ele é forçado a tomar decisões que desafiam sua lealdade e senso de identidade. O filme equilibra cenas de ação emocionante com momentos de introspecção, explorando temas de memória, identidade e sacrifício.
+                    Enquanto <strong>Jack</strong> desenterra verdades sobre a missão que ele e <strong>Victoria</strong> executam, ele é forçado a tomar decisões que desafiam sua lealdade e senso de identidade. O filme equilibra cenas de ação emocionante com momentos de introspecção, explorando temas de memória, identidade e sacrifício.
                 </p>
             </article>
 
@@ -108,10 +157,24 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Uma viagem ao desconhecido</h2>
             <article>
                 <p>
-                    "Oblivion" é uma viagem emocionante pelo desconhecido, repleta de reviravoltas e visuais arrebatadores. A direção de Joseph Kosinski e a performance convincente de Tom Cruise mantêm o público engajado, enquanto a narrativa intrigante oferece reflexões profundas sobre o que significa ser humano em um mundo devastado. Embora possa não ser o filme de ficção científica mais inovador, "Oblivion" se destaca pela sua execução elegante e pela capacidade de prender a atenção do espectador do início ao fim, proporcionando uma experiência cinematográfica gratificante.
+                    "Oblivion" é uma viagem emocionante pelo desconhecido, repleta de reviravoltas e visuais arrebatadores. A direção de 
+                    <a href="https://www.google.com/search?q=Joseph+Kosinski" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Joseph Kosinski
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    e a performance convincente de 
+                    <a href="https://www.google.com/search?q=Tom+Cruise" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Tom Cruise
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    mantêm o público engajado, enquanto a narrativa intrigante oferece reflexões profundas sobre o que significa ser humano em um mundo devastado. Embora possa não ser o filme de ficção científica mais inovador, "Oblivion" se destaca pela sua execução elegante e pela capacidade de prender a atenção do espectador do início ao fim, proporcionando uma experiência cinematográfica gratificante.
                 </p>
             </article>
             

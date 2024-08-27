@@ -3,6 +3,10 @@
 
 <?php include_once "../../scripts/php/head-conteudos.php"; ?>
 <title>Sobre "Deep Web: O Show da Morte" - NexusHub</title>
+<meta name="description" content="Deep Web: O Show da Morte é um thriller que mergulha nos perigos da internet obscura, explorando os segredos sombrios da Deep Web e os riscos mortais que ela apresenta.">
+
+<meta name="keywords" content="Deep Web, Terror, Filme, NexusHub, Sinopse, Analise, geek">
+<link rel="canonical" href="https://nexushub.blog.br/conteudos/filmes/deep-web-o-show-da-morte.php">
 
 <body>
     <?php include_once "../../scripts/php/sidebar-mobile.php"; ?>
@@ -29,15 +33,38 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
+            <h2 class="titulo-article-conteudo">Apresentação do thriller</h2>
             <article>
-                <p>"Deep Web: O Show da Morte" é um thriller dirigido por Alex Garland, conhecido por seu trabalho em "Ex Machina" e "Aniquilação". O elenco estelar inclui Joseph Gordon-Levitt no papel principal, com sua habilidade de mergulhar profundamente nos personagens, e Alicia Vikander, que traz uma presença magnética às telas. Com uma equipe talentosa por trás das câmeras e um elenco de primeira linha na frente delas, este filme promete oferecer uma experiência cinematográfica emocionante e arrepiante.</p>
+                <p>Deep Web: O Show da Morte é um thriller distribuido pela <strong>A2 Filmes</strong> e dirigido por 
+                <a href="https://www.google.com/search?q=dan+zachary&rlz=1C1FKPE_pt-BRBR1120BR1120&oq=dan+zacha&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBggCEEUYOTIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQgzNDIyajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8" class="link-texto" target="_blank" rel="noopener noreferrer"> 
+                    Dan Zachary
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                </a>. O elenco estelar inclui 
+                <a href="https://www.google.com/search?client=opera-gx&q=Aiden+Howard&sourceid=opera&ie=UTF-8&oe=UTF-8" class="link-texto" target="_blank" rel="noopener noreferrer"> 
+                    Aiden Howard
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                </a> no papel principal, com sua habilidade de mergulhar profundamente nos personagens, e <a href="https://www.google.com/search?sca_esv=11f828c360292ccb&sca_upv=1&rlz=1C1FKPE_pt-BRBR1120BR1120&q=Lauren+Jackson&si=ACC90nwW1AbREAiB4CC-gLW9uX_3VkLyCqvMyw7Y6wGbZsgRMIilh4wM6t0GfvSIQkR0gAsc204Vzq_l-prBBR38i1KTX-Cah8szPyEkU3WxyXg72Z2-3atBmc95COTq_o4rS4XBf5rhNSef_iftsf7krP-PLdLYZxCCyM1iiUc7fn7LyxmcO-_KrpZL2HcIJI32E-k_nQqEUv4KjA5LNaS1184cKml7ATPCCAJ3esotXnMmHYZfOHOn8tkgxyRjhbZVsOwrCkFEQBlEUM74FxIqquBm9AfnRg%3D%3D&sa=X&ved=2ahUKEwjhxrKIlYyIAxWyNTUKHTTLEQMQ6RN6BAgTEAE&biw=1600&bih=773&dpr=1" class="link-texto" target="_blank" rel="noopener noreferrer"> 
+                    Lauren Jackson
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                </a>, que traz uma presença magnética às telas. Com uma equipe talentosa por trás das câmeras e um elenco habilidoso na frente delas, este filme promete oferecer uma experiência cinematográfica emocionante e arrepiante.</p>
             </article>
 
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Um mundo sombrio e obscuro</h2>
             <article>
                 <p>
-                    A trama segue um jovem hacker talentoso, interpretado por Joseph Gordon-Levitt, que, em sua busca por emoção e desafios, decide mergulhar nas profundezas da internet obscura. Ele rapidamente se vê envolvido em um jogo perigoso de gato e rato com figuras sinistras que operam nas sombras da Deep Web. Conforme ele desvenda os segredos sombrios e os perigos mortais que espreitam na escuridão virtual, sua própria vida é colocada em risco.
+                    A trama segue um jovem poadcaster <strong>Ethan Newton</strong>, interpretado por 
+                    <a href="https://www.google.com/search?client=opera-gx&q=Aiden+Howard&sourceid=opera&ie=UTF-8&oe=UTF-8" class="link-texto" target="_blank" rel="noopener noreferrer"> 
+                        Aiden Howard
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, que em busca por respostas pelo assassinato de sua irmã, decide mergulhar nas profundezas da internet obscura. Ele rapidamente se vê envolvido em um jogo perigoso de gato e rato com figuras sinistras que operam nas sombras da Deep Web. Conforme ele desvenda os segredos sombrios e os perigos mortais que espreitam na escuridão virtual, sua própria vida é colocada em risco.
                 </p>
             </article>
 
@@ -65,7 +92,7 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">O Show da Morte</h2>
             <article>
                 <p>
                     Ao adentrar na Deep Web, o protagonista se vê imerso em um mundo de paranoia e perigo, onde a identidade e a segurança são moedas de troca frágeis. Ele rapidamente descobre que a Deep Web é um playground para criminosos, hackers e predadores, onde os mais sombrios desejos humanos são explorados sem restrições. Confrontado com desafios cada vez mais intensos e ameaças iminentes, o protagonista se vê em uma corrida desesperada pela sobrevivência, enquanto luta para desvendar o mistério por trás de "O Show da Morte".
