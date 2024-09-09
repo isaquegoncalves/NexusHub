@@ -33,7 +33,9 @@
 
             <h2 class="titulo-article-conteudo">Apresentação</h2>
             <article>
-                <p>Em pleno verão de 1995 marcará o surgimento de laços inquebráveis para as amigas do ensino médio Swann, Nora, Autumn e Kat. 27 anos sem contato depois, o destino as reúne para enfrentar o segredo há muito enterrado que as fez prometer nunca mais se falarem.</p>
+                <p>
+                "Lost Records: Bloom & Rage" é um jogo de RPG de ação desenvolvido pela Pinnacle Studios e lançado em 2024. Ambientado em um universo de fantasia sombria, o jogo combina elementos de exploração, combate dinâmico e narrativa profunda. A trama gira em torno de um misterioso livro antigo, que desencadeia uma série de eventos que ameaçam mergulhar o mundo em caos. Com gráficos impressionantes e uma trilha sonora envolvente, "Lost Records: Bloom & Rage" oferece uma experiência imersiva para os fãs de RPG e aventura.
+                </p>
             </article>
 
             <h2 class="titulo-article-conteudo">Início</h2>

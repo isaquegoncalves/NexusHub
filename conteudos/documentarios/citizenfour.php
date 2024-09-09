@@ -29,19 +29,66 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>"Citizenfour", dirigido por Laura Poitras e lançado em 2014, é um documentário poderoso e inquietante que oferece uma visão detalhada das revelações de Edward Snowden sobre a vigilância em massa conduzida pelo governo dos Estados Unidos. O filme leva o público ao centro dos eventos que chocaram o mundo, proporcionando uma visão íntima e direta de um dos maiores vazamentos de informações da história moderna.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Vigilância em massa</h2>
             <article>
                 <p>
-                    O documentário começa com Laura Poitras recebendo uma série de e-mails criptografados de um remetente anônimo que se identifica como "Citizenfour". Estes e-mails alegam que a Agência de Segurança Nacional (NSA) dos EUA está conduzindo programas de vigilância em massa, coletando dados sobre milhões de cidadãos sem seu conhecimento ou consentimento.
+                    <strong>"Citizenfour"</strong>, dirigido por <a href="https://www.google.com/search?q=Laura+Poitras" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Laura Poitras
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e lançado em 2014, é um documentário poderoso e inquietante que oferece uma visão detalhada das revelações de 
+                    <a href="https://www.google.com/search?q=Edward+Snowden" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Edward Snowden
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> sobre a vigilância em massa conduzida pelo governo dos Estados Unidos. O filme leva o público ao centro dos eventos que chocaram o mundo, proporcionando uma visão íntima e direta de um dos maiores vazamentos de informações da história moderna.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">A coleta de dados de milhões de cidadãos</h2>
+            <article>
+                <p>
+                    O documentário começa com <a href="https://www.google.com/search?q=Laura+Poitras" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Laura Poitras
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> recebendo uma série de e-mails criptografados de um remetente anônimo que se identifica como "
+                    <a href="https://www.google.com/search?q=Citizenfour" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Citizenfour
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>". Estes e-mails alegam que a <strong>Agência de Segurança Nacional (NSA)</strong> dos EUA está conduzindo programas de vigilância em massa, coletando dados sobre milhões de cidadãos sem seu conhecimento ou consentimento.
                 </p>
 
                 <p>
-                    Em janeiro de 2013, Poitras, junto com os jornalistas Glenn Greenwald e Ewen MacAskill, viaja para Hong Kong para se encontrar com o misterioso informante, que se revela ser Edward Snowden, um ex-contratado da NSA. Snowden fornece aos jornalistas uma vasta quantidade de documentos classificados que detalham a extensão e os métodos da vigilância global realizada pela NSA.
+                    Em janeiro de 2013, <a href="https://www.google.com/search?q=Laura+Poitras" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Laura Poitras
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, junto com os jornalistas 
+                    <a href="https://www.google.com/search?q=Glenn+Greenwald" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Glenn Greenwald
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e 
+                    <a href="https://www.google.com/search?q=Ewen+MacAskill" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Ewen MacAskill
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, viaja para Hong Kong para se encontrar com o misterioso informante, que se revela ser 
+                    <a href="https://www.google.com/search?q=Edward+Snowden" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Edward Snowden
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, um ex-contratado da NSA. Snowden fornece aos jornalistas uma vasta quantidade de documentos classificados que detalham a extensão e os métodos da vigilância global realizada pela NSA.
                 </p>
             </article>
 
@@ -68,14 +115,42 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Programas de vigilância da NSA</h2>
             <article>
                 <p>
-                    O documentário captura a tensão e a urgência das reuniões iniciais entre Snowden e os jornalistas em um quarto de hotel em Hong Kong. Snowden, com uma calma impressionante, explica os programas de vigilância da NSA, incluindo o acesso a comunicações privadas de cidadãos ao redor do mundo. Ele descreve como as tecnologias desenvolvidas para proteger os Estados Unidos da ameaça do terrorismo foram ampliadas para espionar pessoas comuns e líderes mundiais.
+                    O documentário captura a tensão e a urgência das reuniões iniciais entre <a href="https://www.google.com/search?q=Edward+Snowden" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Snowden
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e os jornalistas em um quarto de hotel em Hong Kong. Snowden, com uma calma impressionante, explica os programas de vigilância da <a href="https://www.google.com/search?q=NSA" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        NSA
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, incluindo o acesso a comunicações privadas de cidadãos ao redor do mundo. Ele descreve como as tecnologias desenvolvidas para proteger os Estados Unidos da ameaça do terrorismo foram ampliadas para espionar pessoas comuns e líderes mundiais.
                 </p>
 
                 <p>
-                    À medida que os jornalistas começam a publicar as revelações, o mundo reage com choque e indignação. O filme documenta o impacto global das revelações de Snowden, incluindo a resposta dos governos, a reação da mídia e a crescente preocupação pública com a privacidade e os direitos civis.
+                    À medida que os jornalistas começam a publicar as revelações, o mundo reage com choque e indignação. O filme documenta o impacto global das revelações de 
+                    <a href="https://www.google.com/search?q=Edward+Snowden" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Snowden
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, incluindo a resposta dos governos, a reação da mídia e a crescente preocupação pública com a 
+                    <a href="https://www.google.com/search?q=privacidade" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        privacidade
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e os 
+                    <a href="https://www.google.com/search?q=direitos+civis" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        direitos civis
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>.
                 </p>
 
                 <div class="poster-conteudo">
@@ -88,7 +163,22 @@
                 </div>
                     
                 <p>
-                    Poitras também captura o lado humano de Snowden, mostrando-o como uma pessoa comum que tomou uma decisão extraordinária e corajosa, sacrificando sua própria liberdade e segurança para expor o que ele acreditava ser uma grave injustiça. O documentário segue Snowden enquanto ele busca asilo em diferentes países, fugindo da perseguição do governo dos EUA.
+                    Poitras também captura o lado humano de <a href="https://www.google.com/search?q=Edward+Snowden" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Snowden
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, mostrando-o como uma pessoa comum que tomou uma decisão extraordinária e corajosa, sacrificando sua própria liberdade e segurança para expor o que ele acreditava ser uma grave injustiça. O documentário segue <a href="https://www.google.com/search?q=Edward+Snowden" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Snowden
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> enquanto ele busca asilo em diferentes países, fugindo da perseguição do <a href="https://www.google.com/search?q=governo+dos+EUA" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        governo dos EUA
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>.
                 </p>
             </article>
 
@@ -107,14 +197,35 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Privacidade e Segurança na Era Digital</h2>
             <article>
                 <p>
-                    "Citizenfour" é uma obra-prima do jornalismo investigativo e um testemunho contundente do poder da coragem individual contra a opressão sistêmica. Laura Poitras cria uma narrativa tensa e envolvente que mantém o público na ponta de seus assentos, ao mesmo tempo em que provoca profundas reflexões sobre privacidade, liberdade e o papel do governo.
+                    <a href="https://www.google.com/search?q=Citizenfour" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        "Citizenfour"
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    é uma obra-prima do jornalismo investigativo e um testemunho contundente do poder da coragem individual contra a opressão sistêmica. 
+                    <a href="https://www.google.com/search?q=Laura+Poitras" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Laura Poitras
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    cria uma narrativa tensa e envolvente que mantém o público na ponta de seus assentos, ao mesmo tempo em que provoca profundas reflexões sobre privacidade, liberdade e o papel do governo.
                 </p>
 
                 <p>
-                    O documentário é essencial para entender a era moderna da vigilância e a luta contínua pelos direitos civis na era digital. A coragem de Edward Snowden e o trabalho incansável dos jornalistas envolvidos são capturados de forma crua e real, destacando a importância da transparência e da responsabilidade governamental.
+                    O documentário é essencial para entender a era moderna da vigilância e a luta contínua pelos direitos civis na era digital. 
+                    A coragem de 
+                    <a href="https://www.google.com/search?q=Edward+Snowden" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Edward Snowden
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    e o trabalho incansável dos jornalistas envolvidos são capturados de forma crua e real, destacando a importância da transparência e da responsabilidade governamental.
                 </p>
                     
                 <p>

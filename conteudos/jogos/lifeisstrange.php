@@ -29,15 +29,29 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>Em "Life is Strange", os jogadores seguem Max Caulfield, que descobre ter o poder de manipular o tempo. Max usa suas habilidades para investigar o desaparecimento de Rachel Amber, enfrentar dilemas morais e pessoais, e lidar com as consequências de suas ações enquanto tenta salvar sua cidade de uma catástrofe iminente.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Um mistério não solucionado</h2>
             <article>
                 <p>
-                    "Life is Strange" começa com Max retornando à sua cidade natal, Arcadia Bay, para frequentar a prestigiosa Blackwell Academy. Durante uma aula de fotografia, Max tem uma visão de um tornado devastando a cidade. Pouco depois, ela descobre que tem a habilidade de voltar no tempo ao testemunhar o assassinato de sua antiga amiga, Chloe Price, e reverter o evento. A partir desse momento, Max e Chloe se unem para investigar o desaparecimento de Rachel Amber, uma amiga de Chloe, e descobrir segredos sombrios que envolvem Arcadia Bay.
+                    Em "<strong>Life is Strange</strong>", os jogadores seguem <strong>Max Caulfield</strong>, que descobre ter o poder de manipular o tempo. Max usa suas habilidades para investigar o desaparecimento de <strong>Rachel Amber</strong>, enfrentar dilemas morais e pessoais, e lidar com as consequências de suas ações enquanto tenta salvar sua cidade de uma catástrofe iminente. O jogo foi desenvolvido pela 
+                    <a href="https://www.google.com/search?q=Dontnod+Entertainment" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>Dontnod Entertainment</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e publicado pela 
+                    <a href="https://www.google.com/search?q=Square+Enix" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>Square Enix</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Em busca da verdade</h2>
+            <article>
+                <p>
+                    <strong>Life is Strange</strong> começa com <strong>Max</strong> retornando à sua cidade natal, Arcadia Bay, para frequentar a prestigiosa Blackwell Academy. Durante uma aula de fotografia, Max tem uma visão de um tornado devastando a cidade. Pouco depois, ela descobre que tem a habilidade de voltar no tempo ao testemunhar o assassinato de sua antiga amiga, <strong>Chloe Price</strong>, e reverter o evento. A partir desse momento, Max e Chloe se unem para investigar o desaparecimento de <strong>Rachel Amber</strong>, uma amiga de Chloe, e descobrir segredos sombrios que envolvem Arcadia Bay.
                 </p>
             </article>
 
@@ -65,14 +79,15 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Os segredos ocultos de Arcadia Bay</h2>
             <article>
                 <p>
-                    A jogabilidade de "Life is Strange" é centrada na exploração, interação com personagens e a tomada de decisões que afetam o desenrolar da história. Max usa sua habilidade de voltar no tempo para resolver puzzles, ajudar seus amigos e corrigir erros, mas cada mudança no tempo traz consequências inesperadas.
+                    A jogabilidade de <strong>Life is Strange</strong> é centrada na exploração, interação com personagens e a tomada de decisões que afetam o desenrolar da história. <strong>Max</strong> usa sua habilidade de voltar no tempo para resolver puzzles, ajudar seus amigos e corrigir erros, mas cada mudança no tempo traz consequências inesperadas.
                 </p>
 
                 <p>
-                    A investigação de Max e Chloe as leva a desvendar uma conspiração que envolve membros da comunidade de Arcadia Bay, incluindo figuras de autoridade e colegas de Blackwell Academy. O jogo aborda temas profundos como bullying, depressão, amizade, e identidade, enquanto Max enfrenta dilemas morais complexos. Cada decisão pode alterar o curso dos eventos e impactar o destino dos personagens.
+                    A investigação de <strong>Max</strong> e <strong>Chloe</strong> as leva a desvendar uma conspiração que envolve membros da comunidade de Arcadia Bay, incluindo figuras de autoridade e colegas de <strong>Blackwell Academy</strong>. O jogo aborda temas profundos como bullying, depressão, amizade, e identidade, enquanto <strong>Max</strong> enfrenta dilemas morais complexos. Cada decisão pode alterar o curso dos eventos e impactar o destino dos personagens.
+
                 </p>
 
                 <div class="poster-conteudo">
@@ -89,7 +104,8 @@
                 </p>
                     
                 <p>
-                    Conforme a história avança, Max descobre a verdadeira extensão de seus poderes e as consequências de suas ações. A investigação sobre o desaparecimento de Rachel Amber culmina em uma revelação chocante, levando Max e Chloe a confrontar o culpado e tentar evitar o desastre natural que ameaça Arcadia Bay.
+                    Conforme a história avança, <strong>Max</strong> descobre a verdadeira extensão de seus poderes e as consequências de suas ações. A investigação sobre o desaparecimento de <strong>Rachel Amber</strong> culmina em uma revelação chocante, levando Max e <strong>Chloe</strong> a confrontar o culpado e tentar evitar o desastre natural que ameaça Arcadia Bay.
+
                 </p>
             </article>
 
@@ -108,18 +124,18 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Suas ações terão consequências...</h2>
             <article>
                 <p>
-                    "Life is Strange" oferece uma experiência narrativa profunda e emocionalmente envolvente, destacando-se por sua abordagem única à mecânica de viagem no tempo e suas ramificações. A história de Max e Chloe é cativante, com personagens bem desenvolvidos e situações realistas que ressoam com os jogadores.
+                    <strong>Life is Strange</strong> oferece uma experiência narrativa profunda e emocionalmente envolvente, destacando-se por sua abordagem única à mecânica de viagem no tempo e suas ramificações. A história de <strong>Max</strong> e <strong>Chloe</strong> é cativante, com personagens bem desenvolvidos e situações realistas que ressoam com os jogadores.
                 </p>
 
                 <p>
-                    O jogo aborda questões importantes e frequentemente ignoradas em outros títulos, proporcionando uma reflexão sobre as consequências de nossas escolhas e a complexidade das relações humanas. A Dontnod Entertainment conseguiu criar um ambiente imersivo e uma narrativa poderosa que toca em temas universais.
+                    O jogo aborda questões importantes e frequentemente ignoradas em outros títulos, proporcionando uma reflexão sobre as consequências de nossas escolhas e a complexidade das relações humanas. A <strong>Dontnod Entertainment</strong> conseguiu criar um ambiente imersivo e uma narrativa poderosa que toca em temas universais.
                 </p>
                     
                 <p>
-                    Em resumo, "Life is Strange" é uma obra-prima do gênero de aventura episódica, combinando uma história emocionante com mecânicas de jogo inovadoras. A série não só oferece entretenimento, mas também convida os jogadores a refletirem sobre suas próprias vidas e escolhas. É uma experiência obrigatória para qualquer pessoa interessada em narrativas interativas e jogos que desafiam as convenções.
+                    Em resumo, <strong>Life is Strange</strong> é uma obra-prima do gênero de aventura episódica, combinando uma história emocionante com mecânicas de jogo inovadoras. A série não só oferece entretenimento, mas também convida os jogadores a refletirem sobre suas próprias vidas e escolhas. É uma experiência obrigatória para qualquer pessoa interessada em narrativas interativas e jogos que desafiam as convenções.
                 </p>
             </article>
             

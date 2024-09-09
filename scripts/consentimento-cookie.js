@@ -13,7 +13,7 @@ window.cookieconsent.initialise({
     "message": "Utilizamos cookies para que você tenha a melhor experiência. Você pode acessar a nossa ",
     "dismiss": "Entendi!",
     "link": "Política de Cookies",
-    "href": "politicas-e-termos/politica-de-cookies.html"
+    "href": "politicas-e-termos/politica-de-cookies.php"
     }
 });
 });

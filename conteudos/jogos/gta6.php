@@ -32,15 +32,23 @@
                 
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>Embora a Rockstar Games ainda não tenha revelado detalhes específicos do enredo de "GTA 6", espera-se que o jogo continue a tradição da série de apresentar uma narrativa envolvente centrada no submundo do crime, explorando novas cidades e personagens complexos em um ambiente de mundo aberto.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">O tão esperado GTA 6</h2>
             <article>
                 <p>
-                    A série "Grand Theft Auto" é conhecida por suas histórias envolventes e mundos abertos vibrantes. Com "GTA 6", os fãs esperam uma expansão dessas características, introduzindo novos locais, personagens e mecânicas de jogo inovadoras. A expectativa é que o jogo ofereça uma visão detalhada e imersiva de uma cidade fictícia inspirada em locais reais, com um enredo profundo e ramificado.
+                    Embora a 
+                    <a href="https://www.google.com/search?q=Rockstar+Games" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    <strong>Rockstar Games</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> ainda não tenha revelado detalhes específicos do enredo de "GTA 6", espera-se que o jogo continue a tradição da série de apresentar uma narrativa envolvente centrada no submundo do crime, explorando novas cidades e personagens complexos em um ambiente de mundo aberto.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Inovador com experiências únicas</h2>
+            <article>
+                <p>
+                    A série <strong>Grand Theft Auto</strong> é conhecida por suas histórias envolventes e mundos abertos vibrantes. Com <strong>GTA 6</strong>, os fãs esperam uma expansão dessas características, introduzindo novos locais, personagens e mecânicas de jogo inovadoras. A expectativa é que o jogo ofereça uma visão detalhada e imersiva de uma cidade fictícia inspirada em locais reais, com um enredo profundo e ramificado.
                 </p>
             </article>
 
@@ -68,10 +76,22 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Clássica Vice City</h2>
             <article>
                 <p>
-                    Rumores sugerem que "GTA 6" pode apresentar múltiplas cidades jogáveis, possivelmente incluindo versões atualizadas de Vice City e outras locações clássicas da série. A Rockstar Games é conhecida por seu compromisso com a qualidade e o detalhamento, então espera-se que o jogo ofereça um mundo aberto ainda mais interativo e dinâmico.
+                    Rumores sugerem que <strong>GTA 6</strong> pode apresentar múltiplas cidades jogáveis, possivelmente incluindo versões atualizadas de 
+                    <a href="https://www.google.com/search?q=Vice+City" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Vice City
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e outras locações clássicas da série. A 
+                    <a href="https://www.google.com/search?q=Rockstar+Games" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Rockstar Games
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> é conhecida por seu compromisso com a qualidade e o detalhamento, então espera-se que o jogo ofereça um mundo aberto ainda mais interativo e dinâmico.
                 </p>
 
                 <p>
@@ -107,14 +127,29 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Um novo marco na série GTA</h2>
             <article>
                 <p>
-                    Embora ainda não haja uma data de lançamento oficial para "GTA 6", a antecipação está em alta. A Rockstar Games tem um histórico de entregar jogos de alta qualidade que definem padrões na indústria, e as expectativas para este novo título são enormes. A espera por "GTA 6" continua a alimentar a curiosidade e a especulação dos fãs, que esperam uma experiência de jogo revolucionária que eleve ainda mais o patamar da série.
+                    Embora ainda não haja uma data de lançamento oficial para 
+                    <strong>GTA 6</strong>, a antecipação está em alta. A 
+                    <a href="https://www.google.com/search?q=Rockstar+Games" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Rockstar Games
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> tem um histórico de entregar jogos de alta qualidade que definem padrões na indústria, e as expectativas para este novo título são enormes. A espera por 
+                    <strong>GTA 6</strong> continua a alimentar a curiosidade e a especulação dos fãs, que esperam uma experiência de jogo revolucionária que eleve ainda mais o patamar da série.
                 </p>
 
                 <p>
-                    Assim, "GTA 6" não só promete ser um marco na evolução dos jogos de mundo aberto, mas também uma reflexão sobre o impacto cultural e social da série Grand Theft Auto. A combinação de narrativa envolvente, inovação tecnológica e exploração detalhada provavelmente fará de "GTA 6" um dos lançamentos mais memoráveis da próxima década.
+                    Assim, <strong>GTA 6</strong> não só promete ser um marco na evolução dos jogos de mundo aberto, mas também uma reflexão sobre o impacto cultural e social da série 
+                    <a href="https://www.google.com/search?q=Grand+Theft+Auto" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Grand Theft Auto
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>. A combinação de narrativa envolvente, inovação tecnológica e exploração detalhada provavelmente fará de 
+                    <strong>GTA 6</strong> um dos lançamentos mais memoráveis da próxima década.
                 </p>
             </article>
             

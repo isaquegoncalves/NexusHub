@@ -29,15 +29,29 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>Em "Guardians of the Galaxy", os jogadores assumem o papel de Peter Quill, também conhecido como Star-Lord, e lideram os Guardiões em uma jornada intergaláctica. A equipe enfrenta uma série de desafios enquanto tenta salvar o universo de uma nova ameaça, desenvolvendo seus laços e enfrentando dilemas morais ao longo do caminho.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Uma jornada intergaláctica</h2>
             <article>
                 <p>
-                    A história de "Guardians of the Galaxy" começa com os Guardiões enfrentando uma crise intergaláctica provocada por uma decisão impulsiva de Peter Quill. Os jogadores são introduzidos ao vibrante universo dos Guardiões, onde cada membro da equipe traz suas habilidades e personalidades únicas para a dinâmica do grupo. A narrativa explora temas de amizade, responsabilidade e redenção, à medida que a equipe navega por uma série de eventos catastróficos.
+                    Em <strong>Guardians of the Galaxy</strong>, os jogadores assumem o papel de <strong>Peter Quill</strong>, também conhecido como Star-Lord, e lideram os Guardiões em uma jornada intergaláctica. A equipe enfrenta uma série de desafios enquanto tenta salvar o universo de uma nova ameaça, desenvolvendo seus laços e enfrentando dilemas morais ao longo do caminho. O jogo é desenvolvido pela 
+                    <a href="https://www.google.com/search?q=Eidos+Montreal" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Eidos-Montreal 
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e publicado pela 
+                    <a href="https://www.google.com/search?q=Square+Enix" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Square Enix 
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Conheça os Guardiões e a Milano</h2>
+            <article>
+                <p>
+                    A história de <strong>Guardians of the Galaxy</strong> começa com os Guardiões enfrentando uma crise intergaláctica provocada por uma decisão impulsiva de <strong>Peter Quill</strong>. Os jogadores são introduzidos ao vibrante universo dos Guardiões, onde cada membro da equipe traz suas habilidades e personalidades únicas para a dinâmica do grupo. A narrativa explora temas de amizade, responsabilidade e redenção, à medida que a equipe navega por uma série de eventos catastróficos. 
                 </p>
             </article>
 
@@ -65,14 +79,14 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Assuma o papel do "Senhor das estrelas"</h2>
             <article>
                 <p>
-                    Os jogadores assumem o papel de Star-Lord, explorando diversos planetas e enfrentando inimigos em combates frenéticos. Cada membro da equipe possui habilidades únicas que podem ser usadas estrategicamente em batalha. A dinâmica entre os personagens é um ponto central do jogo, com diálogos espirituosos e interações que refletem a camaradagem e os conflitos internos dos Guardiões.
+                    Os jogadores assumem o papel de <strong>Star-Lord</strong>, explorando diversos planetas e enfrentando inimigos em combates frenéticos. Cada membro da equipe possui habilidades únicas que podem ser usadas estrategicamente em batalha. A dinâmica entre os personagens é um ponto central do jogo, com diálogos espirituosos e interações que refletem a camaradagem e os conflitos internos dos Guardiões.
                 </p>
 
                 <p>
-                    A narrativa do jogo é fortemente influenciada pelas escolhas dos jogadores. Decisões críticas afetam não apenas o desenrolar da história, mas também as relações entre os personagens. Por exemplo, optar por apoiar ou contradizer um membro da equipe pode alterar a forma como ele reage em situações futuras, criando uma experiência de jogo personalizada e envolvente.
+                    A narrativa do jogo é fortemente influenciada pelas escolhas dos jogadores. Decisões críticas afetam não apenas o desenrolar da história, mas também as relações entre os personagens. Por exemplo, optar por apoiar ou contradizer um membro da equipe pode alterar a forma como ele reage em situações futuras, criando uma experiência de jogo personalizada e envolvente. 
                 </p>
 
                 <div class="poster-conteudo">
@@ -104,14 +118,21 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Uma aventura pela galáxia</h2>
             <article>
                 <p>
-                    "Guardians of the Galaxy" oferece uma experiência de jogo rica e envolvente, capturando a essência dos personagens e do universo Marvel. A combinação de uma narrativa bem construída, combate dinâmico e interações profundas entre os personagens resulta em um jogo que não só entretém, mas também emociona os fãs da franquia.
+                    <strong>Guardians of the Galaxy</strong> oferece uma experiência de jogo rica e envolvente, capturando a essência dos personagens e do universo Marvel. A combinação de uma narrativa bem construída, combate dinâmico e interações profundas entre os personagens resulta em um jogo que não só entretém, mas também emociona os fãs da franquia.
+
                 </p>
 
                 <p>
-                    A Eidos-Montréal conseguiu criar um jogo que equilibra humor, ação e emoção, proporcionando uma jornada memorável pelos confins do espaço. O impacto das decisões do jogador no desenrolar da história e nas relações interpessoais adiciona uma camada de profundidade que incentiva múltiplas jogadas. "Guardians of the Galaxy" é uma adição valiosa ao universo dos jogos baseados em quadrinhos, oferecendo uma aventura galáctica que ressoa tanto com os fãs antigos quanto com os novos.
+                    A <a href="https://www.google.com/search?q=Eidos-Montréal" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    <strong>Eidos-Montréal</strong>
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a> conseguiu criar um jogo que equilibra humor, ação e emoção, proporcionando uma jornada memorável pelos confins do espaço. O impacto das decisões do jogador no desenrolar da história e nas relações interpessoais adiciona uma camada de profundidade que incentiva múltiplas jogadas. <strong>Guardians of the Galaxy</strong> é uma adição valiosa ao universo dos jogos baseados em quadrinhos, oferecendo uma aventura galáctica que ressoa tanto com os fãs antigos quanto com os novos.
+
                 </p>
             </article>
             

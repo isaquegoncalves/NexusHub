@@ -29,15 +29,42 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>Esse filme nos apresenta um acontecimento real ocorrido durante o período da segunda guerra mundial, onde os nazistas elaboraram uma máquina capaz de decodificar todas as suas comunicações, logo então isso os fazem ficar sempre um passo à frente de seus inimigos. Essa máquina denominada Enigma estava conduzindo os alemães à vitória por simplesmente nenhum de seus inimigos conseguirem prever seus próximos ataques.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">O código indecifrável</h2>
             <article>
                 <p>
-                    Com a Enigma conduzindo as potências Aliadas à derrota, o governo britânico decidiu que precisava obter um meio de quebrar essas codificações “Indecifráveis” que os nazistas haviam criado, com isso o governo elaborou um programa secreto onde havia uma equipe com um único propósito: Decifrar o indecifrável. Para isso foram escolhidos os melhores criptógrafos, matemáticos, engenheiros e etc para formarem uma equipe e lidarem com essa missão.
+                    O filme, dirigido por <a href="https://www.imdb.com/name/nm0444917/" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Morten Tyldum
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, é uma dramatização do verdadeiro acontecimento ocorrido durante o período da Segunda Guerra Mundial, onde os nazistas elaboraram uma máquina capaz de decodificar todas as suas comunicações. Essa máquina, denominada Enigma, estava conduzindo os alemães à vitória por simplesmente nenhum de seus inimigos conseguirem prever seus próximos ataques.
+
+                    O elenco é liderado por 
+                    <a href="https://www.imdb.com/name/nm0262635/" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Benedict Cumberbatch
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> no papel de <strong>Alan Turing</strong>, o matemático e criptoanalista britânico que desempenhou um papel crucial na quebra do código Enigma. Outros atores notáveis incluem 
+                    <a href="https://www.imdb.com/name/nm0000199/" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Keira Knightley
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> como <strong>Joan Clarke</strong>, uma colega de Turing, e <a href="https://www.imdb.com/name/nm0340108/" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Matthew Goode
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> como <strong>Hugh Alexander</strong>, um dos principais membros da equipe de criptoanalistas.
+
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Quebrar o "Inquebrável"</h2>
+            <article>
+                <p>
+                    Com a Enigma conduzindo as potências Aliadas à derrota, o governo britânico decidiu que precisava obter um meio de quebrar essas codificações <strong>“Indecifráveis”</strong> que os nazistas haviam criado, com isso o governo elaborou um programa secreto onde havia uma equipe com um único propósito: Decifrar o indecifrável. Para isso foram escolhidos os melhores criptógrafos, matemáticos, engenheiros e etc para formarem uma equipe e lidarem com essa missão.
                 </p>
             </article>
             
@@ -64,12 +91,14 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">A corrida contra a guerra</h2>
             <article>
                 <p>
-                    Entre os envolvidos no programa estava Alan Turing, na qual possuía entre suas habilidades, a matemática, criptoanálise e ciências da computação, Alan foi quem liderou a equipe do programa secreto em Bletchley Park. Todos os pesquisadores da época viam como solução, a decodificação dos códigos nazistas por tentativas, ou seja, todos os dias eram testadas várias combinações e possibilidades diferentes até se chegar a um resultado. O problema desta solução é que isso era um processo longo e um desperdício de tempo valioso, a qual os aliados estavam perdendo.
-                    <br><br>
-                    O que mudou o curso da história foi a maneira como Alan resolveu solucionar o problema, enquanto uns colocavam homens contra a máquina, Alan considerava que para vencer uma máquina, é necessário enfrentá-la com outra máquina. A partir desse ponto é que surgiu a sua ideia de criar uma máquina que “quebrasse” a Enigma. Após 2 anos de trabalho sob pressão do governo, além da desconfiança sobre a eficiência de sua máquina, Alan passou a ter resultados graduais com sua máquina recém-criada, com isso o sucesso de seu trabalho foi mantido em segredo para que não houvesse mais complicações vindos da Enigma.
+                    Entre os envolvidos no programa estava <strong>Alan Turing</strong>, que possuía entre suas habilidades, a <strong>matemática</strong>, <strong>criptoanálise</strong> e <strong>ciências da computação</strong>. <strong>Alan</strong> foi quem liderou a equipe do programa secreto em <strong>Bletchley Park</strong>. Todos os pesquisadores da época viam como solução a <strong>decodificação</strong> dos códigos nazistas por <strong>tentativas</strong>, ou seja, todos os dias eram testadas várias combinações e possibilidades diferentes até se chegar a um resultado. O problema desta solução é que isso era um processo longo e um <strong>desperdício de tempo</strong> valioso, o qual os aliados estavam perdendo.
+                </p>
+
+                <p>
+                    O que mudou o curso da história foi a maneira como <strong>Alan Turing</strong> resolveu solucionar o problema. Enquanto uns colocavam <strong>homens contra a máquina</strong>, <strong>Alan</strong> considerava que para vencer uma máquina, é necessário enfrentá-la com <strong>outra máquina</strong>. A partir desse ponto, surgiu a sua ideia de criar uma máquina que “quebrasse” a <strong>Enigma</strong>. Após <strong>2 anos</strong> de trabalho sob pressão do governo, além da <strong>desconfiança</strong> sobre a eficiência de sua máquina, <strong>Alan</strong> passou a ter <strong>resultados graduais</strong> com sua máquina recém-criada. Com isso, o <strong>sucesso de seu trabalho</strong> foi mantido em <strong>segredo</strong> para que não houvesse mais complicações vindas da <strong>Enigma</strong>.
                 </p> 
 
                 <div class="poster-conteudo">
@@ -82,8 +111,11 @@
                 </div>
 
                 <p>    
-                    O jogo da imitação é um filme onde nos mostra a importância e o impacto sobre o que uma boa e má comunicação pode causar, porém o que podemos notar no filme é que além da comunicação, mostra também a falta de confidencialidade nas comunicações das potências aliadas, fazendo com que suas estratégias fossem facilmente previstas pelo inimigo, pelo simples fato de suas transmissões não possuírem nenhum tipo de segurança na qual impedissem que suas mensagens fossem capturadas.
-                    Por outro lado temos o “Pai da computação” Alan Turing, que foi o principal responsável por contribuir para decifrar a indecifrável Enigma. 
+                    O <strong>filme</strong> "O Jogo da Imitação" nos mostra a importância e o impacto do que uma <strong>boa</strong> e <strong>má comunicação</strong> pode causar. Porém, além da comunicação, o filme destaca também a falta de <strong>confidencialidade</strong> nas comunicações das <strong>potências aliadas</strong>, o que permitia que suas estratégias fossem facilmente previstas pelo inimigo, pelo simples fato de suas transmissões não possuírem nenhum tipo de <strong>segurança</strong> que impedisse que suas mensagens fossem capturadas.
+                </p>
+
+                <p>
+                    Por outro lado, temos o <strong>“Pai da Computação” Alan Turing</strong>, que foi o principal responsável por contribuir para decifrar a indecifrável <strong>Enigma</strong>.
                 </p>
 
                 <div class="poster-conteudo">
@@ -96,7 +128,7 @@
                 </div>
 
                 <p>
-                    No filme a partir do momento que ele apresenta a ideia que poderia construir uma máquina que pudesse decifrar todos os códigos da enigma, claramente não foi aceita pela maioria dos envolvidos por se tratar de algo “muito avançado” pra época, e que seria impossível criar tal coisa. Foi desse ponto que Turing começou a enfrentar as dificuldades que foram surgindo, deixando sua trajetória mais difícil, tendo o seu projeto quase desligado devido aos altos custos, sendo acusado de ser um espião soviético, e até mesmo ter sua vida inteira vasculhada devido ao seu segredo de ser homossexual, algo que era absurdo e considerado crime na época, podendo então colocar toda sua carreira em risco.
+                    No <strong>filme</strong>, a partir do momento em que <strong>Alan Turing</strong> apresenta a ideia de construir uma <strong>máquina</strong> capaz de decifrar todos os códigos da <strong>Enigma</strong>, sua proposta não é aceita pela maioria dos envolvidos, por se tratar de algo <strong>“muito avançado”</strong> para a época e considerado impossível de ser criado. Foi a partir desse ponto que Turing começou a enfrentar uma série de <strong>dificuldades</strong>, com sua trajetória se tornando mais <strong>dura</strong>. Seu projeto quase foi <strong>desligado</strong> devido aos altos <strong>custos</strong>, e ele foi acusado de ser um <strong>espião soviético</strong>. Além disso, sua <strong>vida pessoal</strong> foi minuciosamente vasculhada devido ao seu segredo de ser <strong>homossexual</strong>, algo considerado um crime na época, o que pôs toda sua <strong>carreira</strong> em risco.
                 </p>
             </article>
 
@@ -115,10 +147,10 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Milhares de vidas salvas com sua criação</h2>
             <article>
                 <p>
-                    Mesmo com todas essas dificuldades Alan Turing se mostrou perseverante e insistente em seu projeto, não desistindo dele em nenhum momento, graças aos seus esforços ele e sua equipe conseguiram mudar o rumo da guerra e entregar a vitória nas mãos dos aliados, salvando milhares de vidas prevendo ataques alemães graças a grande invenção de Turing.
+                    Mesmo com todas essas <strong>dificuldades</strong>, <strong>Alan Turing</strong> se mostrou <strong>perseverante</strong> e <strong>insistente</strong> em seu projeto, não desistindo dele em nenhum momento. Graças aos seus <strong>esforços</strong>, ele e sua <strong>equipe</strong> conseguiram mudar o rumo da guerra e entregar a <strong>vitória</strong> nas mãos dos <strong>aliados</strong>, salvando milhares de vidas ao prever ataques <strong>alemães</strong> graças à grande invenção de Turing.
                 </p>
             </article>
             

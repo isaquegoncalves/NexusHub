@@ -29,7 +29,7 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
+            <h2 class="titulo-article-conteudo">Sequência do clássico de '82</h2>
             <article>
                 <p>
                     "Tron: O Legado", dirigido por 
@@ -43,7 +43,7 @@
                 </p>
             </article>
 
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">A busca pelo pai desaparecido</h2>
             <article>
                 <p>
                     A história começa com 
@@ -100,7 +100,7 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">O reencontro</h2>
             <article>
                 <p>
                     À medida que <strong>Sam</strong> navega pela Grade, ele descobre a complexidade do mundo digital e os conflitos internos que ameaçam sua própria existência. O reencontro com seu pai revela segredos profundos sobre a criação da Grade, a rebelião de 
@@ -155,7 +155,7 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Uma narrativa inovadora</h2>
             <article>
                 <p>
                     "Tron: O Legado" é uma sequência que honra o espírito do filme original enquanto expande seu universo de maneiras inovadoras e visualmente impressionantes. A direção de 
@@ -182,7 +182,7 @@
                         <sup>
                             <i class="fa-solid fa-arrow-up-right-from-square"></i>
                         </sup>
-                    </a>, cria uma narrativa envolvente que mantém o público cativado. Embora a história possa seguir alguns tropos familiares, a execução estilística e a profundidade temática tornam "Tron: O Legado" uma experiência cinematográfica memorável. É um filme que celebra a inovação tecnológica e a busca pela conexão humana em um mundo cada vez mais digitalizado.
+                    </a>, cria uma narrativa envolvente que mantém o público cativado. Embora a história possa seguir alguns tópicos familiares, a execução estilística e a profundidade temática tornam "Tron: O Legado" uma experiência cinematográfica memorável. É um filme que celebra a inovação tecnológica e a busca pela conexão humana em um mundo cada vez mais digitalizado.
                 </p>
             </article>
             

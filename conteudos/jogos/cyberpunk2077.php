@@ -28,15 +28,23 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>Em "Cyberpunk 2077", os jogadores mergulham em Night City, uma cidade vibrante e perigosa, onde a tecnologia e a modificação corporal são a norma. V, o protagonista, embarca em uma jornada intensa para encontrar um implante cibernético que concede imortalidade, enfrentando desafios de facções criminosas, corporações poderosas e dilemas morais.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Conheça Night City</h2>
             <article>
                 <p>
-                    O cenário de "Cyberpunk 2077" reflete um futuro onde a tecnologia avançada levou a desigualdades sociais extremas e à dominação corporativa. Night City é uma cidade onde os avanços cibernéticos são comuns e a luta pelo poder e sobrevivência é constante. Os jogadores exploram este mundo complexo através dos olhos de V, um mercenário que tenta fazer seu nome na cidade.
+                    Em <strong>Cyberpunk 2077</strong>, desenvolvido e publicado pela 
+                    <a href="https://www.google.com/search?q=CD+Projekt+Red" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    <strong>CD Projekt Red</strong>
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a>, os jogadores mergulham em <strong>Night City</strong>, uma cidade vibrante e perigosa, onde a tecnologia e a modificação corporal são a norma. <strong>V</strong>, o protagonista, embarca em uma jornada intensa para encontrar um implante cibernético que concede imortalidade, enfrentando desafios de facções criminosas, corporações poderosas e dilemas morais.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Ano de 2077</h2>
+            <article>
+                <p>
+                    O cenário de <strong>"Cyberpunk 2077"</strong> reflete um futuro onde a tecnologia avançada levou a desigualdades sociais extremas e à dominação corporativa. <strong>Night City</strong> é uma cidade onde os avanços cibernéticos são comuns e a luta pelo poder e sobrevivência é constante. Os jogadores exploram este mundo complexo através dos olhos de <strong>V</strong>, um mercenário que tenta fazer seu nome na cidade.
                 </p>
             </article>
 
@@ -64,14 +72,14 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Infinitas possibilidades</h2>
             <article>
                 <p>
-                    Em "Cyberpunk 2077", os jogadores têm a liberdade de personalizar V, escolhendo entre diferentes antecedentes e habilidades que influenciam a narrativa e as interações no jogo. Night City é dividida em seis distritos principais, cada um com sua própria atmosfera e perigos únicos.
+                    Em <strong>"Cyberpunk 2077"</strong>, os jogadores têm a liberdade de personalizar <strong>V</strong>, escolhendo entre diferentes antecedentes e habilidades que influenciam a narrativa e as interações no jogo. <strong>Night City</strong> é dividida em seis distritos principais, cada um com sua própria atmosfera e perigos únicos.
                 </p>
 
                 <p>
-                    O mundo aberto é rico em detalhes, com atividades secundárias, missões paralelas e encontros aleatórios que enriquecem a experiência de jogo. Os jogadores podem explorar desde os luxuosos arranha-céus corporativos até as ruas sombrias e perigosas dos guetos.
+                    O mundo aberto de <strong>"Cyberpunk 2077"</strong> é rico em detalhes, com atividades secundárias, missões paralelas e encontros aleatórios que enriquecem a experiência de jogo. Os jogadores podem explorar desde os luxuosos arranha-céus corporativos até as ruas sombrias e perigosas dos guetos.
                 </p>
 
                 <div class="poster-conteudo">
@@ -84,7 +92,13 @@
                 </div>
                     
                 <p>
-                    A trama principal gira em torno da busca de V pelo implante cibernético que concede imortalidade, o Relic. Ao longo dessa jornada, V cruza caminhos com Johnny Silverhand, um rockstar e terrorista interpretado por Keanu Reeves, cuja consciência digital está presa no implante que V possui. Essa relação complexa entre V e Johnny Silverhand é central para a narrativa, influenciando as escolhas e o desfecho do jogo.
+                    A trama principal gira em torno da busca de <strong>V</strong> pelo implante cibernético que concede imortalidade, o Relic. Ao longo dessa jornada, <strong>V</strong> cruza caminhos com <strong>Johnny Silverhand</strong>, um rockstar e terrorista interpretado por 
+                    <a href="https://www.google.com/search?q=Keanu+Reeves" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Keanu Reeves
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, cuja consciência digital está presa no implante que <strong>V</strong> possui. Essa relação complexa entre <strong>V</strong> e <strong>Johnny Silverhand</strong> é central para a narrativa, influenciando as escolhas e o desfecho do jogo.
                 </p>
                     
                 <p>
@@ -107,10 +121,22 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Um futuro imersivo</h2>
             <article>
                 <p>
-                    "Cyberpunk 2077" não apenas oferece uma experiência de jogo imersiva, mas também levanta questões profundas sobre o futuro da tecnologia e da sociedade. Ao explorar temas de poder corporativo, individualidade e ética tecnológica, o jogo convida os jogadores a refletir sobre as consequências de suas escolhas, proporcionando um desfecho que pode variar significativamente dependendo das decisões tomadas ao longo da jornada.
+                    "<strong>Cyberpunk 2077</strong>", desenvolvido pela 
+                    <a href="https://www.cdprojekt.com/" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>CD Projekt Red</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e dirigido por 
+                    <a href="https://www.google.com/search?client=opera-gx&q=Adam+Badowski&sourceid=opera&ie=UTF-8&oe=UTF-8" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>Adam Badowski</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, não apenas oferece uma experiência de jogo imersiva, mas também levanta questões profundas sobre o futuro da tecnologia e da sociedade. Ao explorar temas de poder corporativo, individualidade e ética tecnológica, o jogo convida os jogadores a refletir sobre as consequências de suas escolhas, proporcionando um desfecho que pode variar significativamente dependendo das decisões tomadas ao longo da jornada."
                 </p>
             </article>
             

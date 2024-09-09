@@ -29,15 +29,36 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>"O Vingador do Futuro" é uma adaptação moderna do conto "We Can Remember It for You Wholesale", de Philip K. Dick, e uma releitura do filme homônimo de 1990 estrelado por Arnold Schwarzenegger. Lançado em 2012, o filme apresenta uma visão futurista e distópica, repleta de ação, suspense e elementos de ficção científica.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Um futuro distópico</h2>
             <article>
                 <p>
-                    A história se passa em um futuro distante, onde a Terra foi devastada por guerras e poluição, e a única esperança de sobrevivência está em colônias localizadas em outros planetas. Douglas Quaid, interpretado por Colin Farrell, é um trabalhador comum que vive uma vida monótona e tediosa. Descontente com sua existência, ele decide visitar a Rekall, uma empresa que implanta memórias falsas em seus clientes para proporcionar experiências emocionantes e excitantes.
+                    "O Vingador do Futuro" é uma adaptação moderna do conto "We Can Remember It for You Wholesale", de 
+                    <a href="https://www.google.com/search?q=Philip+K.+Dick" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Philip K. Dick
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, e uma releitura do filme homônimo de 1990 estrelado por 
+                    <a href="https://www.google.com/search?q=Arnold+Schwarzenegger" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Arnold Schwarzenegger
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>. Lançado em 2012, o filme apresenta uma visão futurista e distópica, repleta de ação, suspense e elementos de ficção científica.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Um mundo corrompido</h2>
+            <article>
+                <p>
+                    A história se passa em um futuro distante, onde a Terra foi devastada por guerras e poluição, e a única esperança de sobrevivência está em colônias localizadas em outros planetas. <strong>Douglas Quaid</strong>, interpretado por 
+                    <a href="https://www.google.com/search?q=Colin+Farrell" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Colin Farrell
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, é um trabalhador comum que vive uma vida monótona e tediosa. Descontente com sua existência, ele decide visitar a Rekall, uma empresa que implanta memórias falsas em seus clientes para proporcionar experiências emocionantes e excitantes.
+
                 </p>
             </article>
             
@@ -64,10 +85,11 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Revelações e conspirações</h2>
             <article>
                 <p>
-                    No entanto, durante o procedimento na Rekall, algo dá terrivelmente errado e Quaid se vê mergulhado em uma teia de conspirações e segredos do passado que ele desconhecia. Ele descobre que pode não ser quem ele pensava que era e que sua verdadeira identidade está ligada a eventos que podem mudar o destino da humanidade. Perseguido por agentes do governo e forçado a lutar pela própria sobrevivência, Quaid embarca em uma jornada para descobrir a verdade sobre si mesmo e salvar o mundo.
+                    No entanto, durante o procedimento na Rekall, algo dá terrivelmente errado e <strong>Quaid</strong> se vê mergulhado em uma teia de conspirações e segredos do passado que ele desconhecia. Ele descobre que pode não ser quem ele pensava que era e que sua verdadeira identidade está ligada a eventos que podem mudar o destino da humanidade. Perseguido por agentes do governo e forçado a lutar pela própria sobrevivência, <strong>Quaid</strong> embarca em uma jornada para descobrir a verdade sobre si mesmo e salvar o mundo.
+
                 </p>
 
                 <div class="poster-conteudo">
@@ -80,8 +102,33 @@
                 </div>
 
                 <p>
-                    O filme é repleto de cenas de ação emocionantes, efeitos visuais impressionantes e reviravoltas surpreendentes que mantêm o espectador na ponta da cadeira. A direção habilidosa de Len Wiseman cria uma atmosfera sombria e futurista que cativa a imaginação, enquanto as performances sólidas do elenco principal, incluindo Colin Farrell, Kate Beckinsale e Jessica Biel, adicionam profundidade e complexidade aos personagens.
+                    O filme é repleto de cenas de ação emocionantes, efeitos visuais impressionantes e reviravoltas surpreendentes que mantêm o espectador na ponta da cadeira. A direção habilidosa de 
+                    <a href="https://www.google.com/search?q=Len+Wiseman" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Len Wiseman
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> cria uma atmosfera sombria e futurista que cativa a imaginação, enquanto as performances sólidas do elenco principal, incluindo 
+                    <a href="https://www.google.com/search?q=Colin+Farrell" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Colin Farrell
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, 
+                    <a href="https://www.google.com/search?q=Kate+Beckinsale" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Kate Beckinsale
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, e 
+                    <a href="https://www.google.com/search?q=Jessica+Biel" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Jessica Biel
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, adicionam profundidade e complexidade aos personagens.
                 </p>
+
             </article>
 
             <div class="anuncio-mobile">
@@ -99,7 +146,7 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Uma aventura cativante</h2>
             <article>
                 <p>
                     "O Vingador do Futuro" (2012) é uma emocionante aventura de ficção científica que combina ação, suspense e elementos filosóficos de forma envolvente. Com uma trama intrigante, efeitos visuais deslumbrantes e performances cativantes, o filme oferece uma experiência cinematográfica emocionante que agrada tanto aos fãs do original quanto aos espectadores novos. Embora possa não alcançar o status de clássico de seu predecessor, "O Vingador do Futuro" de 2012 certamente mantém o público entretido e imerso em seu mundo distópico e cheio de adrenalina.

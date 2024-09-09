@@ -31,13 +31,25 @@
 
             <h2 class="titulo-article-conteudo">Tema Abordado</h2>
             <article>
-                <p>O documentário apresentado aborda alguns dos principais temas e críticas, sobre quais são os impactos causados relacionados ao uso excessivo das redes sociais em nossa sociedade, devido ao alto consumo das redes sociais e da alta influenciabilidade que elas possuem em nossas vidas, e como isso pode vir a afetar a saúde mental do usuário e até mesmo interferir em nossas próprias decisões pessoais.</p>
+                <p>
+                    O documentário apresentado, dirigido por <a href="https://www.imdb.com/name/nm3106455/" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Jeff Orlowski
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a> e produzido por <a href="https://www.imdb.com/name/nm2152484/" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Larissa Rhodes
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, aborda alguns dos principais temas e críticas sobre os impactos causados pelo uso excessivo das <strong>redes sociais</strong> em nossa sociedade. Devido ao alto consumo das redes sociais e à alta influenciabilidade que elas possuem em nossas vidas, o documentário explora como isso pode afetar a <strong>saúde mental</strong> do usuário e até mesmo interferir em nossas próprias <strong>decisões pessoais</strong>.
+                </p>
             </article>
 
             <h2 class="titulo-article-conteudo">Principais Impactos</h2>
             <article>
                 <p>
-                    O documentário utiliza como fonte e evidências os principais ex-funcionários e executivos das gigantes da tecnologia como Google, Twitter, Facebook e Instagram. Cada um deles nos contam sobre suas diferentes experiências sobre como as grandes empresas utilizam as redes sociais para obter lucros às custas de seus usuários, e como o uso excessivo dessas mídias sociais podem impactar nas ideologias políticas e culturais na sociedade, com o acesso em massa às informações de todo o tipo, as pessoas passaram a ser mais negligentes em relação a existir ideias controversas a respeito de sua perspectiva em relação a um determinado tema, tornando a sociedade cada vez mais ignorante e menos tolerantes a novos tipos de pensamentos diferentes.
+                    O <strong>documentário</strong> utiliza como fonte e evidências os principais <strong>ex-funcionários</strong> e <strong>executivos</strong> das gigantes da <strong>tecnologia</strong> como <strong>Google</strong>, <strong>Twitter</strong>, <strong>Facebook</strong> e <strong>Instagram</strong>. Cada um deles nos contam sobre suas diferentes experiências sobre como as grandes empresas utilizam as <strong>redes sociais</strong> para obter <strong>lucros</strong> às custas de seus usuários, e como o <strong>uso excessivo</strong> dessas mídias sociais podem impactar nas <strong>ideologias políticas</strong> e <strong>culturais</strong> na sociedade. Com o acesso em massa às <strong>informações</strong>, as pessoas passaram a ser mais negligentes em relação a <strong>ideias controversas</strong>, tornando a sociedade cada vez mais <strong>ignorante</strong> e menos <strong>tolerante</strong> a novos tipos de pensamentos.
                 </p>
             </article>
 
@@ -68,7 +80,11 @@
             <h2 class="titulo-article-conteudo">Privacidade Comprometida</h2>
             <article>
                 <p>
-                    Outro assunto abordado no documentário, que inclusive gera muita polêmica quando se é discutido, é sobre a extração e o uso indiscriminado dos dados obtidos a partir dos usuários das plataformas, a fim de se obter lucros através de publicidades geradas pelos softwares, além de ser uma obtenção indiscriminada de dados obtidos, muita das vezes essa extração acaba comprometendo até mesmo a integridade da privacidade do usuário, tornando todos os seus atos na Internet “algo” que possa ser vendido e monitorado em tempo real para marcas de publicidades, e a partir disso faz com que seja possível “montar” um perfil sobre o que seria mais relevante para que o usuário permanecesse mais tempo interessado em seu feed, quanto mais tempo o usuário passa nas redes sociais, mais publicidade ele acaba visualizando, e isso acaba beneficiando de forma positiva a corporação criadora da rede, e por outro lado acaba prejudicando de forma negativa o usuário que está fazendo o uso da rede, devido aos algoritmos estar fazendo com que o usuário tenha toda a sua atenção “presa” ao software, porém para o usuário que não percebe o que está acontecendo de fato no momento, isso pode parecer algo natural, afinal de contas ele só está procurando algum meio de entretenimento na qual ele possa se satisfazer, porém é a partir desse ponto que os algoritmos atuam.
+                    O documentário explora a polêmica sobre a <strong>extração</strong> e o uso <strong>indiscriminado</strong> de dados de usuários pelas plataformas, visando <strong>lucro</strong> através de publicidades. Essas informações são obtidas sem o conhecimento claro dos usuários e comprometem sua <strong>privacidade</strong>, permitindo que suas atividades online sejam monitoradas e vendidas em tempo real. As plataformas utilizam esses dados para criar perfis e manter os usuários engajados por mais tempo em seus feeds, o que aumenta a exposição a anúncios e, consequentemente, os <strong>lucros</strong> das empresas.
+                </p>
+
+                <p>
+                    Por outro lado, o impacto negativo recai sobre os usuários, que são manipulados por <strong>algoritmos</strong> para permanecer mais tempo conectados, muitas vezes sem perceber. Enquanto buscam <strong>entretenimento</strong>, os algoritmos capturam sua <strong>atenção</strong> de maneira quase imperceptível, gerando uma dependência crescente das redes sociais, com prejuízos à sua liberdade de escolha e ao seu tempo.
                 </p>
 
                 <div class="poster-conteudo">
@@ -81,7 +97,11 @@
                 </div>
 
                 <p>
-                    Como podemos notar esse “entretenimento” que o usuário busca nas redes sociais ocorre devido ao algoritmo estar selecionando cada conteúdo que seja mais relevante para o usuário, se visto desse ponto de vista, toda vez que o usuário estiver com a autoestima mais baixa, ou estiver se sentindo um pouco mais entediado, ele sempre vai recorrer ao uso das redes sociais a fim de se sentir melhor e até mais satisfeito, e se isso for recorrente, ou seja, se tornar uma espécie de looping, isso poderá acabar se tornando um hábito indispensável para o usuário, podendo até progredir e se tornar um vício com o tempo. Óbvio que todo esse processo ocorre de maneira oculta e de forma inconscientemente da ciência do usuário, devido a esses efeitos causados pelo uso das redes sociais, pode-se considerar que é um software projetado para ser altamente viciante, se caso não haja precauções em relação ao seu uso.
+                    Como podemos notar, esse <strong>“entretenimento”</strong> que o usuário busca nas <strong>redes sociais</strong> ocorre devido ao <strong>algoritmo</strong> estar selecionando cada <strong>conteúdo</strong> que seja mais relevante para o usuário. Se visto desse ponto de vista, toda vez que o usuário estiver com a <strong>autoestima</strong> mais baixa, ou estiver se sentindo um pouco mais <strong>entediado</strong>, ele sempre vai recorrer ao uso das <strong>redes sociais</strong> a fim de se sentir melhor e até mais <strong>satisfeito</strong>. Se isso for recorrente, ou seja, se tornar uma espécie de <strong>looping</strong>, isso poderá acabar se tornando um <strong>hábito indispensável</strong> para o usuário, podendo até progredir e se tornar um <strong>vício</strong> com o tempo.
+                </p>
+
+                <p>
+                    Óbvio que todo esse processo ocorre de maneira <strong>oculta</strong> e de forma <strong>inconsciente</strong> da ciência do usuário. Devido a esses <strong>efeitos</strong> causados pelo uso das <strong>redes sociais</strong>, pode-se considerar que é um <strong>software</strong> projetado para ser altamente <strong>viciante</strong>, caso não haja <strong>precauções</strong> em relação ao seu uso.
                 </p>
             </article>
 
@@ -103,7 +123,7 @@
             <h2 class="titulo-article-conteudo">Bem-estar Digital</h2>
             <article>
                 <p>
-                    De longe é possível notar que isso é um problema real em nossa sociedade a partir do momento em que não é mais possível controlar o qual seria a finalidade desse alto volume de informações que são capturadas em nosso cotidiano. Como isso se trata de um problema complexo, a solução também é complexa de aplicar, pelo fato desse mercado trazer milhões de dólares para as indústrias tecnológicas, sendo praticamente um tema muito sensível quando se trata de alterar a forma sobre como eles lucram.
+                    De longe é possível notar que isso é um <strong>problema real</strong> em nossa sociedade a partir do momento em que não é mais possível controlar o qual seria a <strong>finalidade</strong> desse alto volume de <strong>informações</strong> que são capturadas em nosso cotidiano. Como isso se trata de um <strong>problema complexo</strong>, a solução também é <strong>complexa</strong> de aplicar, pelo fato desse <strong>mercado</strong> trazer milhões de dólares para as <strong>indústrias tecnológicas</strong>, sendo praticamente um tema muito <strong>sensível</strong> quando se trata de alterar a forma sobre como eles <strong>lucram</strong>.
                 </p>
             </article>
             

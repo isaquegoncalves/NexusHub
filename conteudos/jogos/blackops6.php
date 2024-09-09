@@ -31,17 +31,24 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
+            <h2 class="titulo-article-conteudo">O que se sabe até o momento</h2>
             <article>
                 <p>
-                    Embora detalhes específicos sobre "Black Ops 6" ainda não tenham sido divulgados, a expectativa é que o jogo continue a explorar cenários de guerra históricos e modernos, com uma história envolvente centrada em operações secretas e missões de alto risco.
+                Embora detalhes específicos sobre <strong>Black Ops 6</strong> ainda não tenham sido divulgados, a expectativa é que o jogo continue a explorar cenários de guerra históricos e modernos, com uma história envolvente centrada em operações secretas e missões de alto risco. 
+                <a href="https://www.google.com/search?q=Activision" class="link-texto" target="_blank" rel="noopener noreferrer"> Activision
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                </a> 
+                está por trás do desenvolvimento do jogo.
+
                 </p>
             </article>
 
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Operações e missões secretas</h2>
             <article>
                 <p>
-                    A série "Black Ops" é conhecida por suas narrativas complexas e atmosferas tensas, mergulhando os jogadores em missões clandestinas durante períodos críticos da história. "Black Ops 6" provavelmente manterá essa tradição, oferecendo um enredo que mistura ficção e realidade, explorando conspirações e operações secretas que moldaram o mundo.
+                    A série <strong>Black Ops</strong> é conhecida por suas narrativas complexas e atmosferas tensas, mergulhando os jogadores em missões clandestinas durante períodos críticos da história. <strong>Black Ops 6</strong> provavelmente manterá essa tradição, oferecendo um enredo que mistura ficção e realidade, explorando conspirações e operações secretas que moldaram o mundo. 
                 </p>
             </article>
             
@@ -68,14 +75,21 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Vivencie a guerra fria</h2>
             <article>
                 <p>
-                    Os jogos anteriores da série "Black Ops" abordaram temas variados, desde a Guerra Fria até conflitos modernos. "Black Ops 6" pode continuar a explorar esses períodos ou introduzir novos cenários, proporcionando uma visão única sobre os eventos históricos.
+                    Os jogos anteriores da série <strong>Black Ops</strong> abordaram temas variados, desde a Guerra Fria até conflitos modernos. <strong>Black Ops 6</strong> pode continuar a explorar esses períodos ou introduzir novos cenários, proporcionando uma visão única sobre os eventos históricos.
+
                 </p>
 
                 <p>
-                    Espera-se que o jogo apresente uma campanha single-player robusta, com personagens memoráveis e enredos interligados. A Treyarch é conhecida por seu compromisso com a narrativa, então é provável que vejamos reviravoltas e momentos emocionantes que manterão os jogadores envolvidos.
+                    Espera-se que o jogo apresente uma campanha single-player robusta, com personagens memoráveis e enredos interligados. A 
+                    <a href="https://www.google.com/search?q=Treyarch" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Treyarch
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> é conhecida por seu compromisso com a narrativa, então é provável que vejamos reviravoltas e momentos emocionantes que manterão os jogadores envolvidos.
                 </p>
 
                 <div class="poster-conteudo">
@@ -107,10 +121,17 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Expectativa alta</h2>
             <article>
                 <p>
-                    Embora "Black Ops 6" ainda não tenha sido oficialmente anunciado, a expectativa é alta. A série "Black Ops" tem um legado de qualidade e inovação, e os fãs esperam que o próximo título eleve ainda mais o patamar. Com uma combinação de narrativa envolvente, jogabilidade intensa e modos de jogo variados, "Black Ops 6" tem o potencial de ser um dos lançamentos mais aguardados da franquia "Call of Duty".
+                    Embora "Black Ops 6" ainda não tenha sido oficialmente anunciado, a expectativa é alta. A série "Black Ops" tem um legado de qualidade e inovação, e os fãs esperam que o próximo título eleve ainda mais o patamar. Com uma combinação de narrativa envolvente, jogabilidade intensa e modos de jogo variados, "Black Ops 6" tem o potencial de ser um dos lançamentos mais aguardados da franquia 
+                    <a href="https://www.google.com/search?q=Call+of+Duty" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>Call of Duty</strong>
+                        <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>.
+
                 </p>
 
                 <p>

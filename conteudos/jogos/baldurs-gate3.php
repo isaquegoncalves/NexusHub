@@ -29,15 +29,35 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>Em "Baldur's Gate 3", os jogadores controlam um grupo de personagens que foram infectados por um parasita ilítico. Enquanto buscam uma cura, eles se envolvem em uma trama épica que envolve deuses, demônios e o destino do mundo. O jogo combina exploração profunda, combates táticos e decisões significativas que afetam o desenrolar da história.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Em busca pela cura</h2>
             <article>
                 <p>
-                    "Baldur's Gate 3" começa com o jogador capturado por um ilítico (mind flayer), que implanta um parasita em seu cérebro. O protagonista consegue escapar quando a nave dos ilíticos é atacada, mas o parasita permanece uma ameaça constante, conferindo habilidades estranhas e perigosas. Os jogadores devem encontrar uma maneira de remover o parasita, unindo forças com outros sobreviventes enquanto exploram o mundo vasto e interconectado de Faerûn.
+                    Em 
+                    <a href="https://www.google.com/search?q=Baldur%27s+Gate+3" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>"Baldur's Gate 3"</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, 
+                    desenvolvido pela 
+                    <a href="https://www.google.com/search?q=Larian+Studios" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>Larian Studios</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, os jogadores controlam um grupo de personagens que foram infectados por um parasita ilítico. Enquanto buscam uma cura, eles se envolvem em uma trama épica que envolve deuses, demônios e o destino do mundo. O jogo combina exploração profunda, combates táticos e decisões significativas que afetam o desenrolar da história.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Um parasita perigoso</h2>
+            <article>
+                <p>
+                    <a href="https://www.google.com/search?q=Baldur%27s+Gate+3" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    <strong>"Baldur's Gate 3"</strong>
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a> começa com o jogador capturado por um ilítico <strong>mind flayer</strong>, que implanta um parasita em seu cérebro. O protagonista consegue escapar quando a nave dos ilíticos é atacada, mas o parasita permanece uma ameaça constante, conferindo habilidades estranhas e perigosas. Os jogadores devem encontrar uma maneira de remover o parasita, unindo forças com outros sobreviventes enquanto exploram o mundo vasto e interconectado de Faerûn.
                 </p>
             </article>
 
@@ -65,10 +85,20 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Exploração Profunda em um Mundo de D&D</h2>
             <article>
                 <p>
-                    A jogabilidade de "Baldur's Gate 3" é caracterizada por um profundo sistema de combate baseado em turnos, reminiscente das regras de Dungeons & Dragons 5ª edição. Os jogadores devem usar estratégias táticas e habilidades únicas de cada personagem para enfrentar inimigos variados, desde bandidos e monstros até forças sobrenaturais.
+                    <a href="https://www.google.com/search?q=Larian+Studios" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    <strong>Larian Studios</strong>
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a> é conhecida por seu trabalho na série "Divinity" e trouxe seu expertise para. A jogabilidade de <a href="https://www.google.com/search?q=Baldur%27s+Gate+3" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>"Baldur's Gate 3"</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> é caracterizada por um profundo sistema de combate baseado em turnos, reminiscente das regras de Dungeons & Dragons 5ª edição. Os jogadores devem usar estratégias táticas e habilidades únicas de cada personagem para enfrentar inimigos variados, desde bandidos e monstros até forças sobrenaturais.
                 </p>
 
                 <p>
@@ -108,10 +138,16 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Baldur's Gate 3: Uma Obra-Prima dos RPGs</h2>
             <article>
                 <p>
-                    "Baldur's Gate 3" é uma impressionante adição ao gênero RPG, oferecendo uma experiência rica e complexa que honra suas raízes em Dungeons & Dragons enquanto traz inovações modernas. O jogo é notável por sua profunda narrativa, personagens memoráveis e um sistema de combate estratégico que desafia e recompensa os jogadores.
+                    <strong>Baldur's Gate 3</strong> é uma impressionante adição ao gênero RPG, oferecendo uma experiência rica e complexa que honra suas raízes em 
+                    <a href="https://www.google.com/search?q=Dungeons+%26+Dragons" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Dungeons & Dragons
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> enquanto traz inovações modernas. O jogo é notável por sua profunda narrativa, personagens memoráveis e um sistema de combate estratégico que desafia e recompensa os jogadores.
                 </p>
 
                 <p>
@@ -119,7 +155,13 @@
                 </p>
                     
                 <p>
-                    Em resumo, "Baldur's Gate 3" é um RPG extraordinário que oferece uma combinação perfeita de exploração, combate e narrativa interativa. É um jogo essencial para fãs de RPGs e de Dungeons & Dragons, estabelecendo novos padrões de excelência no gênero.
+                    Em resumo, <strong>"Baldur's Gate 3"</strong> é um RPG extraordinário que oferece uma combinação perfeita de exploração, combate e narrativa interativa. É um jogo essencial para fãs de 
+                    <a href="https://www.google.com/search?q=Dungeons+%26+Dragons" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Dungeons & Dragons
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, estabelecendo novos padrões de excelência no gênero.
                 </p>
             </article>
             

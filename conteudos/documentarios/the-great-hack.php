@@ -29,19 +29,62 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>"The Great Hack", dirigido por Karim Amer e Jehane Noujaim e lançado em 2019, é um documentário que investiga o escândalo da Cambridge Analytica e suas consequências globais. O filme oferece uma análise profunda e perturbadora de como os dados pessoais são coletados, manipulados e utilizados para influenciar eleições e a opinião pública, levantando questões críticas sobre privacidade, democracia e ética na era digital.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">O escândalo da Cambridge Analytica</h2>
             <article>
                 <p>
-                    O documentário começa com a introdução ao vasto universo dos dados digitais e como eles se tornaram a mercadoria mais valiosa do mundo moderno. Ele rapidamente se foca no escândalo da Cambridge Analytica, uma empresa de consultoria política que utilizou dados pessoais de milhões de usuários do Facebook sem seu consentimento para criar perfis psicográficos e direcionar campanhas políticas.
+                    "The Great Hack", dirigido por 
+                    <a href="https://www.google.com/search?q=Karim+Amer" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Karim Amer
+                        <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup>
+                    </a> 
+                    e 
+                    <a href="https://www.google.com/search?q=Jehane+Noujaim" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Jehane Noujaim
+                        <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup>
+                    </a> 
+                    e lançado em 2019, é um documentário que investiga o escândalo da <strong>Cambridge Analytica</strong> e suas consequências globais. O filme oferece uma análise profunda e perturbadora de como os dados pessoais são coletados, manipulados e utilizados para influenciar eleições e a opinião pública, levantando questões críticas sobre privacidade, democracia e ética na era digital.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">A manipulação dos dados e seus efeitos</h2>
+            <article>
+                <p>
+                    O documentário começa com a introdução ao vasto universo dos dados digitais e como eles se tornaram a mercadoria mais valiosa do mundo moderno. Ele rapidamente se foca no escândalo da 
+                    <a href="https://www.google.com/search?q=Cambridge+Analytica" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Cambridge Analytica
+                        <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup>
+                    </a>, 
+                    uma empresa de consultoria política que utilizou dados pessoais de milhões de usuários do 
+                    <a href="https://www.google.com/search?q=Facebook" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Facebook
+                        <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup>
+                    </a> 
+                    sem seu consentimento para criar perfis psicográficos e direcionar campanhas políticas.
+
                 </p>
 
                 <p>
-                    Os protagonistas do documentário incluem Brittany Kaiser, ex-diretora de negócios da Cambridge Analytica, David Carroll, um professor universitário que luta para recuperar seus dados, e Carole Cadwalladr, a jornalista investigativa que ajudou a expor o escândalo. A narrativa se desenrola através de suas experiências, oferecendo uma perspectiva multifacetada do impacto da manipulação de dados.
+                    Os protagonistas do documentário incluem 
+                    <a href="https://www.google.com/search?client=opera-gx&q=brittany+kaiser&sourceid=opera&ie=UTF-8&oe=UTF-8" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Brittany Kaiser
+                        <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup>
+                    </a>, 
+                    ex-diretora de negócios da 
+                    <a href="https://www.google.com/search?q=Cambridge+Analytica" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Cambridge Analytica
+                        <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup>
+                    </a>, 
+                    <a href="https://www.google.com/search?q=David+Carroll" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        David Carroll
+                        <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup>
+                    </a>, 
+                    um professor universitário que luta para recuperar seus dados, e 
+                    <a href="https://www.google.com/search?q=Carole+Cadwalladr" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Carole Cadwalladr
+                        <sup><i class="fa-solid fa-arrow-up-right-from-square"></i></sup>
+                    </a>, 
+                    a jornalista investigativa que ajudou a expor o escândalo. A narrativa se desenrola através de suas experiências, oferecendo uma perspectiva multifacetada do impacto da manipulação de dados.
+
                 </p>
             </article>
 
@@ -69,14 +112,27 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">O poder dos dados</h2>
             <article>
                 <p>
-                    À medida que o documentário avança, somos levados através das complexas operações da Cambridge Analytica, incluindo seu papel nas eleições presidenciais dos Estados Unidos de 2016 e no referendo do Brexit. Brittany Kaiser se torna uma figura central, revelando detalhes internos sobre as táticas da empresa e as estratégias de manipulação de eleitores.
+                    À medida que o documentário avança, somos levados através das complexas operações da <strong>Cambridge Analytica</strong>, incluindo seu papel nas eleições presidenciais dos Estados Unidos de 2016 e no referendo do Brexit. 
+                    <a href="https://www.google.com/search?client=opera-gx&q=brittany+kaiser&sourceid=opera&ie=UTF-8&oe=UTF-8" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Brittany Kaiser
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>
+                    se torna uma figura central, revelando detalhes internos sobre as táticas da empresa e as estratégias de manipulação de eleitores.
                 </p>
 
                 <p>
-                    David Carroll, por outro lado, personifica a luta do cidadão comum contra o uso indevido de dados pessoais. Sua batalha legal para obter acesso aos seus próprios dados da Cambridge Analytica destaca as questões de transparência e responsabilidade no uso de informações pessoais. A jornada de Carroll expõe a dificuldade de proteger a privacidade individual em um mundo dominado por corporações que lucram com a exploração de dados.
+                    <a href="https://www.google.com/search?q=David+Carroll" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    David Carroll
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a>,
+                    por outro lado, personifica a luta do cidadão comum contra o uso indevido de dados pessoais. Sua batalha legal para obter acesso aos seus próprios dados da <strong>Cambridge Analytica</strong> destaca as questões de transparência e responsabilidade no uso de informações pessoais. A jornada de <strong>Carroll</strong> expõe a dificuldade de proteger a privacidade individual em um mundo dominado por corporações que lucram com a exploração de dados.
                 </p>
 
                 <div class="poster-conteudo">
@@ -89,7 +145,13 @@
                 </div>
                 
                 <p>
-                    Carole Cadwalladr contribui com uma visão crítica e jornalística, mostrando como sua investigação ajudou a desencadear uma série de revelações que abalaram a confiança pública nas plataformas de mídia social e nos processos democráticos. Sua determinação em expor a verdade serve como um lembrete do papel vital do jornalismo na manutenção da transparência e da responsabilidade.
+                    <a href="https://www.google.com/search?q=Carole+Cadwalladr" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Carole Cadwalladr
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a> 
+                    contribui com uma visão crítica e jornalística, mostrando como sua investigação ajudou a desencadear uma série de revelações que abalaram a confiança pública nas plataformas de mídia social e nos processos democráticos. Sua determinação em expor a verdade serve como um lembrete do papel vital do jornalismo na manutenção da transparência e da responsabilidade.
                 </p>
             </article>
 
@@ -108,14 +170,48 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Um alerta sobre a segurança</h2>
             <article>
                 <p>
-                    "The Great Hack" é um documentário crucial e revelador que lança luz sobre as profundas implicações da coleta e manipulação de dados na sociedade moderna. A direção de Karim Amer e Jehane Noujaim cria uma narrativa tensa e envolvente que prende o espectador, ao mesmo tempo em que educa sobre os perigos de um mundo onde nossos dados são mercadorias.
+                    The Great Hack é um documentário crucial e revelador que lança luz sobre as profundas implicações da coleta e manipulação de dados na sociedade moderna. A direção de 
+                    <a href="https://www.google.com/search?q=Karim+Amer" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Karim Amer
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    e 
+                    <a href="https://www.google.com/search?q=Jehane+Noujaim" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Jehane Noujaim
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    cria uma narrativa tensa e envolvente que prende o espectador, ao mesmo tempo em que educa sobre os perigos de um mundo onde nossos dados são mercadorias.
                 </p>
 
                 <p>
-                    O filme é um alerta poderoso sobre como a privacidade e a democracia podem ser comprometidas pela exploração irresponsável e não regulamentada de dados pessoais. As histórias individuais de Brittany Kaiser, David Carroll e Carole Cadwalladr destacam a necessidade urgente de maior proteção de dados e regulamentação para evitar futuros abusos.
+                    O filme é um alerta poderoso sobre como a privacidade e a democracia podem ser comprometidas pela exploração irresponsável e não regulamentada de dados pessoais. As histórias individuais de 
+                    <a href="https://www.google.com/search?q=Brittany+Kaiser" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Brittany Kaiser
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, 
+                    <a href="https://www.google.com/search?q=David+Carroll" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        David Carroll
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    e 
+                    <a href="https://www.google.com/search?q=Carole+Cadwalladr" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Carole Cadwalladr
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    destacam a necessidade urgente de maior proteção de dados e regulamentação para evitar futuros abusos.
                 </p>
                     
                 <p>

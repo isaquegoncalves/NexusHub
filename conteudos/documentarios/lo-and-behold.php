@@ -29,21 +29,53 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
+            <h2 class="titulo-article-conteudo">Uma viagem para o passado, presente e futuro</h2>
             <article>
             <p>
-                "Lo and Behold: Reveries of the Connected World" é um documentário dirigido pelo renomado cineasta Werner Herzog e lançado em 2016. Este filme oferece uma jornada profunda e abrangente pelo passado, presente e futuro da internet e da conectividade digital, explorando suas vastas implicações na sociedade, na tecnologia e na própria condição humana. Herzog, com seu estilo característico de curiosidade e reflexão filosófica, nos convida a contemplar como o mundo digital molda e redefine nossas vidas.
+                <a href="https://www.google.com/search?q=Lo+and+Behold%3A+Reveries+of+the+Connected+World" class="link-texto" target="_blank" rel="noopener noreferrer">
+                Lo and Behold: Reveries of the Connected World
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                </a> é um documentário dirigido pelo renomado cineasta 
+                <a href="https://www.google.com/search?q=Werner+Herzog" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Werner Herzog
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                </a> e lançado em 2016. Este filme oferece uma jornada profunda e abrangente pelo passado, presente e futuro da internet e da conectividade digital, explorando suas vastas implicações na sociedade, na tecnologia e na própria condição humana. <strong>Herzog</strong>, com seu estilo característico de curiosidade e reflexão filosófica, nos convida a contemplar como o mundo digital molda e redefine nossas vidas.
             </p>
             </article>
 
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">As origens da internet</h2>
             <article>
                 <p>
-                    O documentário começa com uma visita histórica ao berço da internet: a sala de um laboratório na UCLA onde a primeira mensagem de computador para computador foi enviada em 1969. Herzog inicia sua exploração com a palavra "Lo", que foi a primeira palavra transmitida antes de um sistema falhar, simbolizando tanto o humilde começo quanto o vasto potencial da internet.
+                    O documentário começa com uma visita histórica ao berço da internet: a sala de um laboratório na <a href="https://www.google.com/search?q=UCLA" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    UCLA
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> onde a primeira mensagem de computador para computador foi enviada em 1969. <a href="https://www.google.com/search?q=Werner+Herzog" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Herzog
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> inicia sua exploração com a palavra "Lo", que foi a primeira palavra transmitida antes de um sistema falhar, simbolizando tanto o humilde começo quanto o vasto potencial da internet.
                 </p>
 
                 <p>
-                    Herzog conduz entrevistas com pioneiros da tecnologia, incluindo Leonard Kleinrock, um dos criadores da internet, e outros especialistas que testemunharam a evolução dessa rede global. Eles compartilham suas experiências e visões sobre o desenvolvimento da internet e suas expectativas iniciais sobre seu impacto.
+                    <a href="https://www.google.com/search?q=Werner+Herzog" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Herzog
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> conduz entrevistas com pioneiros da tecnologia, incluindo 
+                    <a href="https://www.google.com/search?q=Leonard+Kleinrock" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Leonard Kleinrock
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, um dos criadores da internet, e outros especialistas que testemunharam a evolução dessa rede global. Eles compartilham suas experiências e visões sobre o desenvolvimento da internet e suas expectativas iniciais sobre seu impacto.
                 </p>
             </article>
 
@@ -71,14 +103,32 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">O impacto da conectividade digital</h2>
             <article>
                 <p>
-                    À medida que o documentário avança, Herzog aborda uma série de temas relacionados ao impacto da conectividade digital. Ele explora como a internet transformou a comunicação, o trabalho, a educação e até mesmo as interações pessoais. Entrevistas com figuras influentes, como Elon Musk, e visitas a lugares emblemáticos, como o SpaceX, oferecem uma visão sobre como a tecnologia continua a avançar e a moldar o futuro.
+                    À medida que o documentário avança, 
+                    <a href="https://www.google.com/search?q=Werner+Herzog" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Herzog
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> aborda uma série de temas relacionados ao impacto da conectividade digital. Ele explora como a internet transformou a comunicação, o trabalho, a educação e até mesmo as interações pessoais. Entrevistas com figuras influentes, como 
+                    <a href="https://www.google.com/search?q=Elon+Musk" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Elon Musk
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, e visitas a lugares emblemáticos, como o <strong>SpaceX</strong>, oferecem uma visão sobre como a tecnologia continua a avançar e a moldar o futuro.
                 </p>
 
                 <p>
-                    Herzog também aborda questões mais sombrias e controversas, como a dependência da internet, a privacidade online e os perigos do ciberespaço. Ele apresenta histórias de pessoas afetadas negativamente pela tecnologia, como vítimas de crimes cibernéticos e indivíduos que sofrem de "sensibilidade eletromagnética", destacando os desafios e dilemas éticos associados à conectividade digital.
+                    <strong>Herzog</strong> também aborda questões mais sombrias e controversas, como a dependência da internet, a privacidade online e os perigos do <strong>ciberespaço</strong>. Ele apresenta histórias de pessoas afetadas negativamente pela tecnologia, como vítimas de crimes cibernéticos e indivíduos que sofrem de 
+                    <a href="https://www.google.com/search?q=sensibilidade+eletromagnética" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        "sensibilidade eletromagnética"
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, destacando os desafios e dilemas éticos associados à conectividade digital.
                 </p>
 
                 <div class="poster-conteudo">
@@ -91,7 +141,19 @@
                 </div>
                     
                 <p>
-                    O documentário não se limita ao presente; Herzog especula sobre o futuro da internet e a inteligência artificial. Ele investiga os avanços na robótica e na comunicação entre máquinas, levantando questões filosóficas sobre a autonomia, a ética e a relação entre humanos e máquinas.
+                    O documentário não se limita ao presente, <strong>Herzog</strong> especula sobre o futuro da internet e a inteligência artificial. Ele investiga os avanços na 
+                    <a href="https://www.google.com/search?q=robótica" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        robótica
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e na 
+                    <a href="https://www.google.com/search?q=comunicação+entre+máquinas" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        comunicação entre máquinas
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, levantando questões filosóficas sobre a autonomia, a ética e a relação entre humanos e máquinas.
                 </p>
             </article>
 
@@ -110,18 +172,30 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Uma reflexão profunda</h2>
             <article>
                 <p>
-                    "Lo and Behold: Reveries of the Connected World" é uma meditação profunda e multifacetada sobre a era digital e suas repercussões. Werner Herzog combina sua perspectiva única com entrevistas perspicazes e cenas visuais cativantes para criar um documentário que é tanto informativo quanto provocativo.
+                    <strong>"Lo and Behold: Reveries of the Connected World"</strong> é uma meditação profunda e multifacetada sobre a era digital e suas repercussões. 
+                    <a href="https://www.google.com/search?q=Werner+Herzog" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Werner Herzog
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> combina sua perspectiva única com entrevistas perspicazes e cenas visuais cativantes para criar um documentário que é tanto informativo quanto provocativo.
                 </p>
 
                 <p>
-                    O filme convida os espectadores a refletir sobre a magnitude da transformação digital e a ponderar as implicações de viver em um mundo cada vez mais conectado. Herzog não oferece respostas fáceis, mas sim uma série de questões e reflexões que desafiam nossas suposições e nos encorajam a pensar criticamente sobre o futuro da tecnologia.
+                    O filme convida os espectadores a refletir sobre a magnitude da transformação digital e a ponderar as implicações de viver em um mundo cada vez mais conectado. 
+                    <a href="https://www.google.com/search?q=Werner+Herzog" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Herzog
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> não oferece respostas fáceis, mas sim uma série de questões e reflexões que desafiam nossas suposições e nos encorajam a pensar criticamente sobre o futuro da tecnologia.
                 </p>
                     
                 <p>
-                    "Lo and Behold" é uma exploração fascinante que captura a essência da revolução digital e suas reverberações na sociedade moderna. É um documentário imperdível para qualquer pessoa interessada em compreender o impacto da internet e a complexidade do mundo conectado em que vivemos.
+                    <strong>"Lo and Behold"</strong> é uma exploração fascinante que captura a essência da revolução digital e suas reverberações na sociedade moderna. É um documentário imperdível para qualquer pessoa interessada em compreender o impacto da internet e a complexidade do mundo conectado em que vivemos.
                 </p>
             </article>
             

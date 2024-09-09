@@ -29,7 +29,7 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
+            <h2 class="titulo-article-conteudo">Em um futuro próximo</h2>
             <article>
                 <p>
                     "Jogador Número 1", de 
@@ -43,7 +43,7 @@
                 </p>
             </article>
 
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Um universo virtual</h2>
             <article>
                 <p>
                     O enredo se passa no ano de 2045, quando o mundo está mergulhado em crises econômicas e sociais. A maioria das pessoas busca refúgio no <strong>OASIS</strong>, um vasto universo de realidade virtual criado por 
@@ -81,7 +81,7 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Uma caçada global</h2>
             <article>
                 <p>
                 <strong>Wade</strong>, conhecido pelo seu avatar 
@@ -132,7 +132,7 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Valores do mundo real</h2>
             <article>
                 <p>
                     A busca pelo Easter egg culmina em um confronto épico com a 

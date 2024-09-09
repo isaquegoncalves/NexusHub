@@ -29,15 +29,22 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>"Life is Strange: Double Exposure" é o próximo capítulo da aclamada série de aventuras narrativas, trazendo Max Caulfield de volta como protagonista. Situado na prestigiosa Caledon University, o jogo mistura mistério, drama e elementos sobrenaturais.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">Continuação do clássico Life is Strange</h2>
             <article>
                 <p>
-                    O enredo começa quando Max Caulfield, agora fotógrafa residente na Caledon University, encontra sua nova amiga, Safi, morta na neve. Desesperada para salvar Safi, Max tenta usar seu poder de Rewind, mas acaba abrindo um portal para uma linha do tempo paralela onde Safi ainda está viva, mas continua em perigo.
+                    <strong>Life is Strange: Double Exposure</strong> é o próximo capítulo da aclamada série de aventuras narrativas, desenvolvida pela <a href="https://www.google.com/search?q=Dontnod+Entertainment" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    Dontnod Entertainment
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a>. O jogo traz <strong>Max Caulfield</strong> de volta como protagonista. Situado na prestigiosa Caledon University, o jogo mistura mistério, drama e elementos sobrenaturais.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Um novo mistério</h2>
+            <article>
+                <p>
+                    O enredo começa quando <strong>Max Caulfield</strong>, agora fotógrafa residente na Caledon University, encontra sua nova amiga, <strong>Safi</strong>, morta na neve. Desesperada para salvar Safi, Max tenta usar seu poder de <strong>Rewind</strong>, mas acaba abrindo um portal para uma linha do tempo paralela onde Safi ainda está viva, mas continua em perigo.
                 </p>
             </article>
 
@@ -64,10 +71,10 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Um assassino desconhecido</h2>
             <article>
                 <p>
-                    "Double Exposure" explora a habilidade única de Max de manipular o tempo, agora ampliada para permitir a navegação entre duas realidades distintas. Max deve usar essa habilidade para investigar o assassinato de Safi e descobrir a identidade do assassino. A narrativa se desenrola em um ambiente universitário rico em detalhes, repleto de personagens novos e antigos que ajudam ou atrapalham Max em sua missão. 
+                    <strong>Double Exposure</strong> explora a habilidade única de <strong>Max</strong> de manipular o tempo, agora ampliada para permitir a navegação entre duas realidades distintas. Max deve usar essa habilidade para investigar o assassinato de <strong>Safi</strong> e descobrir a identidade do assassino. A narrativa se desenrola em um ambiente universitário rico em detalhes, repleto de personagens novos e antigos que ajudam ou atrapalham Max em sua missão.
                 </p>
                     <div class="poster-conteudo">
                         <img src="../../design/img/banner-lisdoubleexposure2.jpg" alt="imagem real do jogo life is strange double exposure">
@@ -78,7 +85,7 @@
                         </a>
                     </div>
                 <p>
-                    O jogo promete momentos de alta tensão e escolhas difíceis que impactam diretamente o desenrolar da história. Além disso, os jogadores podem explorar a mecânica de "Shift", que permite a Max alternar entre as realidades para coletar pistas e resolver quebra-cabeças.
+                    <strong>Double Exposure</strong> promete momentos de alta tensão e escolhas difíceis que impactam diretamente o desenrolar da história. Além disso, os jogadores podem explorar a mecânica de <strong>Shift</strong>, que permite a <strong>Max</strong> alternar entre as realidades para coletar pistas e resolver quebra-cabeças.
                 </p>
             </article>
 
@@ -97,10 +104,10 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Cada escolha impactará ambas realidades</h2>
             <article>
                 <p>
-                    "Life is Strange: Double Exposure" promete ser uma adição emocionante à série, combinando elementos familiares com novas mecânicas e uma trama intrigante. Com um enredo que desafia os jogadores a pensar criticamente e tomar decisões que afetam duas realidades, este jogo tem potencial para ser um dos mais memoráveis da franquia. A habilidade de Max de manipular o tempo e navegar entre realidades oferece uma experiência de jogo única e envolvente. Pessoalmente, estou ansioso para ver como a história de Max e Safi se desenrola e como as novas mecânicas de jogo irão influenciar a narrativa e a jogabilidade​
+                    <strong>Life is Strange: Double Exposure</strong> promete ser uma adição emocionante à série, combinando elementos familiares com novas mecânicas e uma trama intrigante. Com um enredo que desafia os jogadores a pensar criticamente e tomar decisões que afetam duas realidades, este jogo tem potencial para ser um dos mais memoráveis da franquia. A habilidade de <strong>Max</strong> de manipular o tempo e navegar entre realidades oferece uma experiência de jogo única e envolvente. Pessoalmente, estou ansioso para ver como a história de <strong>Max</strong> e <strong>Safi</strong> se desenrola e como as novas mecânicas de jogo irão influenciar a narrativa e a jogabilidade.
                 </p>
             </article>
             

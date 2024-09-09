@@ -31,15 +31,23 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>Em "Elden Ring", os jogadores assumem o papel de um guerreiro conhecido como Ternário, que deve explorar as Terras Intermédias e reunir os fragmentos do Elden Ring, restaurando a ordem ao mundo. A narrativa é rica e misteriosa, criada em colaboração com o famoso autor George R. R. Martin.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">A jornada para restaurar a ordem</h2>
             <article>
                 <p>
-                    "Elden Ring" é ambientado em um mundo devastado conhecido como as Terras Intermédias, onde o Elden Ring foi destruído, levando à queda da ordem e ao surgimento de guerras entre semideuses. O jogador é um Ternário, um exilado que retorna para restaurar o Elden Ring e se tornar o Senhor Prístino. O jogo começa com o jogador explorando este vasto e perigoso mundo, enfrentando inimigos e descobrindo fragmentos do passado que explicam a história e a decadência das Terras Intermédias.
+                    Em <strong>Elden Ring</strong>, os jogadores assumem o papel de um guerreiro conhecido como <strong>Ternário</strong>, que deve explorar as Terras Intermédias e reunir os fragmentos do Elden Ring, restaurando a ordem ao mundo. A narrativa é rica e misteriosa, criada em colaboração com o famoso autor 
+                    <a href="https://www.google.com/search?q=George+R.+R.+Martin" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        George R. R. Martin
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">A decadência das Terras Intermédias</h2>
+            <article>
+                <p>
+                    <strong>Elden Ring</strong> é ambientado em um mundo devastado conhecido como as Terras Intermédias, onde o Elden Ring foi destruído, levando à queda da ordem e ao surgimento de guerras entre semideuses. O jogador é um <strong>Ternário</strong>, um exilado que retorna para restaurar o Elden Ring e se tornar o Senhor Prístino. O jogo começa com o jogador explorando este vasto e perigoso mundo, enfrentando inimigos e descobrindo fragmentos do passado que explicam a história e a decadência das Terras Intermédias.
                 </p>
             </article>
 
@@ -67,14 +75,20 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Um mundo aberto repleto de exploração e desafios</h2>
             <article>
                 <p>
-                    O mundo de "Elden Ring" é vasto e interconectado, cheio de locais variados, desde castelos sombrios até florestas misteriosas e montanhas traiçoeiras. Os jogadores têm a liberdade de explorar esse mundo aberto, enfrentando inimigos poderosos, resolvendo puzzles ambientais e descobrindo segredos escondidos. A exploração é incentivada, com muitos caminhos diferentes e áreas secretas para descobrir.
+                    O mundo de <strong>Elden Ring</strong> é vasto e interconectado, cheio de locais variados, desde castelos sombrios até florestas misteriosas e montanhas traiçoeiras. Os jogadores têm a liberdade de explorar esse mundo aberto, enfrentando inimigos poderosos, resolvendo puzzles ambientais e descobrindo segredos escondidos. A exploração é incentivada, com muitos caminhos diferentes e áreas secretas para descobrir.
                 </p>
 
                 <p>
-                    O combate é intenso e desafiador, característico dos jogos da FromSoftware. Os jogadores podem usar uma variedade de armas, magias e habilidades especiais para enfrentar uma gama diversificada de inimigos e chefes formidáveis. A personalização do personagem é profunda, permitindo aos jogadores criar um guerreiro que se adapta ao seu estilo de jogo preferido.
+                    O combate é intenso e desafiador, característico dos jogos da 
+                    <a href="https://www.google.com/search?q=FromSoftware" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        FromSoftware
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>. Os jogadores podem usar uma variedade de armas, magias e habilidades especiais para enfrentar uma gama diversificada de inimigos e chefes formidáveis. A personalização do personagem é profunda, permitindo aos jogadores criar um guerreiro que se adapta ao seu estilo de jogo preferido.
                 </p>
 
                 <div class="poster-conteudo">
@@ -87,11 +101,17 @@
                 </div>
                     
                 <p>
-                    A narrativa de "Elden Ring" é fragmentada e enigmática, revelada através de encontros com NPCs, descrições de itens e o próprio ambiente do jogo. A colaboração com George R. R. Martin trouxe uma profundidade adicional ao lore do jogo, com histórias de traição, ambição e antigos poderes divinos que moldaram o destino das Terras Intermédias.
+                    A narrativa de <strong>Elden Ring</strong> é fragmentada e enigmática, revelada através de encontros com NPCs, descrições de itens e o próprio ambiente do jogo. A colaboração com 
+                    <a href="https://www.google.com/search?q=George+R.+R.+Martin" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        George R. R. Martin
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> trouxe uma profundidade adicional ao lore do jogo, com histórias de traição, ambição e antigos poderes divinos que moldaram o destino das Terras Intermédias.
                 </p>
                     
                 <p>
-                    Conforme os jogadores progridem, eles devem derrotar semideuses e outros seres poderosos que guardam fragmentos do Elden Ring. Cada vitória traz novos poderes e habilidades, mas também revela mais sobre a complexa história do mundo e as motivações dos personagens.
+                    Conforme os jogadores progridem, eles devem derrotar semideuses e outros seres poderosos que guardam fragmentos do <strong>Elden Ring</strong>. Cada vitória traz novos poderes e habilidades, mas também revela mais sobre a complexa história do mundo e as motivações dos personagens.
                 </p>
             </article>
 
@@ -110,18 +130,39 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Um marco no RPG de ação</h2>
             <article>
                 <p>
-                    "Elden Ring" é uma experiência monumental que combina a jogabilidade desafiadora e recompensadora da FromSoftware com uma narrativa rica e profunda. O vasto mundo aberto oferece liberdade de exploração e descoberta, incentivando os jogadores a se aventurarem e desvendarem os segredos das Terras Intermédias.
+                    <strong>"Elden Ring"</strong> é uma experiência monumental que combina a jogabilidade desafiadora e recompensadora da 
+                    <a href="https://www.google.com/search?q=FromSoftware" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        FromSoftware
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    com uma narrativa rica e profunda. O vasto mundo aberto oferece liberdade de exploração e descoberta, incentivando os jogadores a se aventurarem e desvendarem os segredos das Terras Intermédias.
                 </p>
 
                 <p>
-                    A colaboração com George R. R. Martin resultou em um enredo intricado e personagens memoráveis, adicionando uma camada extra de complexidade e profundidade à história. A estética sombria e a atmosfera opressiva são realçadas por gráficos impressionantes e uma trilha sonora evocativa.
+                    A colaboração com 
+                    <a href="https://www.google.com/search?q=George+R.+R.+Martin" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>George R. R. Martin</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    resultou em um enredo intricado e personagens memoráveis, adicionando uma camada extra de complexidade e profundidade à história. A estética sombria e a atmosfera opressiva são realçadas por gráficos impressionantes e uma trilha sonora evocativa.
                 </p>
                     
                 <p>
-                    Em resumo, "Elden Ring" é um marco nos jogos de RPG de ação, proporcionando uma experiência imersiva que desafia e recompensa os jogadores. A combinação de combate intenso, exploração expansiva e uma narrativa envolvente faz deste jogo uma obra-prima que continuará a ser celebrada por fãs e críticos por muitos anos.
+                    Em resumo, 
+                    <a href="https://www.google.com/search?q=Elden+Ring" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>"Elden Ring"</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> 
+                    é um marco nos jogos de RPG de ação, proporcionando uma experiência imersiva que desafia e recompensa os jogadores. A combinação de combate intenso, exploração expansiva e uma narrativa envolvente faz deste jogo uma obra-prima que continuará a ser celebrada por fãs e críticos por muitos anos.
                 </p>
             </article>
             

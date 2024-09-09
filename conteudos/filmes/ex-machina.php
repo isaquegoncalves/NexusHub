@@ -29,15 +29,41 @@
                 </a>
             </div>
 
-            <h2 class="titulo-article-conteudo">Apresentação</h2>
-            <article>
-                <p>"Ex Machina", dirigido por Alex Garland e lançado em 2014, é um thriller psicológico de ficção científica que mergulha nas complexidades da inteligência artificial e as questões éticas que a cercam. Com um elenco talentoso e uma narrativa envolvente, o filme desafia as percepções sobre o que significa ser humano.</p>
-            </article>
-
-            <h2 class="titulo-article-conteudo">Início</h2>
+            <h2 class="titulo-article-conteudo">A complexidade da IA</h2>
             <article>
                 <p>
-                    A trama começa com Caleb Smith (Domhnall Gleeson), um jovem programador que trabalha em uma grande empresa de tecnologia. Caleb ganha um concurso para passar uma semana na remota propriedade do recluso CEO da empresa, Nathan Bateman (Oscar Isaac). Nathan revela que Caleb foi escolhido para participar de um teste revolucionário: avaliar a inteligência artificial avançada de um androide chamado Ava (Alicia Vikander).
+                    "Ex Machina", dirigido por 
+                    <a href="https://www.google.com/search?q=Alex+Garland" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Alex Garland
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e lançado em 2014, é um thriller psicológico de ficção científica que mergulha nas complexidades da <strong>inteligência artificial</strong> e as questões éticas que a cercam. Com um elenco talentoso e uma narrativa envolvente, o filme desafia as percepções sobre o que significa ser humano.
+                </p>
+            </article>
+
+            <h2 class="titulo-article-conteudo">Um concurso para testar uma IA avançada</h2>
+            <article>
+                <p>
+                    A trama começa com <strong>Caleb Smith</strong> 
+                    <a href="https://www.google.com/search?q=Domhnall+Gleeson" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Domhnall Gleeson
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, um jovem programador que trabalha em uma grande empresa de tecnologia. <strong>Caleb</strong> ganha um concurso para passar uma semana na remota propriedade do recluso CEO da empresa, <strong>Nathan Bateman</strong> 
+                    <a href="https://www.google.com/search?q=Oscar+Isaac" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Oscar Isaac
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>. Nathan revela que <strong>Caleb</strong> foi escolhido para participar de um teste revolucionário: avaliar a inteligência artificial avançada de um androide chamado <strong>Ava</strong> 
+                    <a href="https://www.google.com/search?q=Alicia+Vikander" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        Alicia Vikander
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>.
                 </p>
             </article>
 
@@ -65,14 +91,14 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Desenvolvimento</h2>
+            <h2 class="titulo-article-conteudo">Caleb e Ava</h2>
             <article>
                 <p>
-                    Conforme Caleb interage com Ava, ele começa a questionar a linha entre a inteligência artificial e a consciência humana. Ava demonstra uma capacidade impressionante de compreender e expressar emoções, desafiando Caleb a discernir se sua inteligência é genuína ou simplesmente uma simulação avançada.
+                    Conforme <strong>Caleb</strong> interage com <strong>Ava</strong>, ele começa a questionar a linha entre a inteligência artificial e a consciência humana. <strong>Ava</strong> demonstra uma capacidade impressionante de compreender e expressar emoções, desafiando <strong>Caleb</strong> a discernir se sua inteligência é genuína ou simplesmente uma simulação avançada.
                 </p>
 
                 <p>
-                    Nathan, por outro lado, é uma figura enigmática e perturbadora. Seu comportamento errático e suas motivações obscuras criam uma atmosfera de tensão e desconfiança. À medida que Caleb se aprofunda no teste de Turing, ele descobre segredos perturbadores sobre os verdadeiros objetivos de Nathan e as implicações éticas de criar uma inteligência artificial consciente.
+                    <strong>Nathan</strong>, por outro lado, é uma figura enigmática e perturbadora. Seu comportamento errático e suas motivações obscuras criam uma atmosfera de tensão e desconfiança. À medida que <strong>Caleb</strong> se aprofunda no teste de Turing, ele descobre segredos perturbadores sobre os verdadeiros objetivos de <strong>Nathan</strong> e as implicações éticas de criar uma inteligência artificial consciente.
                 </p>
 
                 <div class="poster-conteudo">
@@ -85,12 +111,38 @@
                 </div>
                     
                 <p>
-                    A cinematografia de Rob Hardy é impressionante, com uma estética minimalista e futurista que amplifica a sensação de isolamento e claustrofobia. A trilha sonora de Ben Salisbury e Geoff Barrow complementa perfeitamente a atmosfera inquietante do filme, adicionando camadas de tensão e mistério.
+                    A cinematografia de <a href="https://www.google.com/search?q=Rob+Hardy" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    <strong>Rob Hardy</strong>
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a> é impressionante, com uma estética minimalista e futurista que amplifica a sensação de isolamento e claustrofobia. A trilha sonora de <a href="https://www.google.com/search?q=Ben+Salisbury" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>Ben Salisbury</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> e <a href="https://www.google.com/search?q=Geoff+Barrow" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>Geoff Barrow</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a> complementa perfeitamente a atmosfera inquietante do filme, adicionando camadas de tensão e mistério.
                 </p>
                     
                 <p>
-                    As interações entre Caleb e Ava são intensas e reveladoras, explorando temas de liberdade, manipulação e a natureza da consciência. Alicia Vikander entrega uma performance notável como Ava, trazendo uma combinação de vulnerabilidade e poder à sua personagem. Oscar Isaac, como Nathan, oferece uma atuação complexa que mantém o público constantemente em dúvida sobre suas verdadeiras intenções.
+                    As interações entre <strong>Caleb</strong> e <strong>Ava</strong> são intensas e reveladoras, explorando temas de liberdade, manipulação e a natureza da consciência. <a href="https://www.google.com/search?q=Alicia+Vikander" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    <strong>Alicia Vikander</strong>
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a> entrega uma performance notável como <strong>Ava</strong>, trazendo uma combinação de vulnerabilidade e poder à sua personagem. <a href="https://www.google.com/search?q=Oscar+Isaac" class="link-texto" target="_blank" rel="noopener noreferrer">
+                        <strong>Oscar Isaac</strong>
+                        <sup>
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </sup>
+                    </a>, como <strong>Nathan</strong>, oferece uma atuação complexa que mantém o público constantemente em dúvida sobre suas verdadeiras intenções.
                 </p>
+
             </article>
 
             <div class="anuncio-mobile">
@@ -108,11 +160,17 @@
                 </script>
             </div>
 
-            <h2 class="titulo-article-conteudo">Conclusão</h2>
+            <h2 class="titulo-article-conteudo">Uma reflexão pertubadora sobre a IA</h2>
             <article>
                 <p>
-                    "Ex Machina" é uma exploração profunda e perturbadora das fronteiras da inteligência artificial e da moralidade humana. Alex Garland cria uma narrativa envolvente que desafia as noções tradicionais de consciência e ética. Com performances brilhantes e uma direção habilidosa, o filme oferece uma experiência cinematográfica que provoca reflexão e debate. "Ex Machina" não é apenas um thriller psicológico fascinante, mas também uma meditação poderosa sobre o futuro da tecnologia e o que significa ser verdadeiramente consciente.
+                    <strong>"Ex Machina"</strong> é uma exploração profunda e perturbadora das fronteiras da inteligência artificial e da moralidade humana. <a href="https://www.google.com/search?q=Alex+Garland" class="link-texto" target="_blank" rel="noopener noreferrer">
+                    <strong>Alex Garland</strong>
+                    <sup>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </sup>
+                    </a> cria uma narrativa envolvente que desafia as noções tradicionais de consciência e ética. Com performances brilhantes e uma direção habilidosa, o filme oferece uma experiência cinematográfica que provoca reflexão e debate. "Ex Machina" não é apenas um thriller psicológico fascinante, mas também uma meditação poderosa sobre o futuro da tecnologia e o que significa ser verdadeiramente consciente.
                 </p>
+                
             </article>
             
             <h2 class="titulo-veja-mais">Veja também</h2>
