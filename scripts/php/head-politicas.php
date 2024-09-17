@@ -54,23 +54,59 @@ echo '
         </nav>
     </header>
     <main>
-        <div id="col-1"> <!--Menu Lateral esquerdo (Desktop)-->
-            <h2>Menu</h2>
-            <ul>
-                <li><a href="../index.php"><i class="fa-solid fa-house-chimney"></i> Início</a></li>
-                <li><a href="../conteudos/filmes/categoria-filmes.html"><i class="fa-solid fa-film"></i> Filmes</a></li>
-                <li><a href="../conteudos/jogos/categoria-jogos.html"><i class="fa-solid fa-gamepad"></i> Jogos</a></li>
-                <li><a href="../conteudos/documentarios/categoria-documentarios.html"><i class="fa-solid fa-book"></i> Documentários</a></li>
-                
-            </ul>
+    <div id="col-1"> <!--Menu Lateral esquerdo (Desktop)-->
+        <h2>Menu</h2>
+        <ul>
+            <li>
+                <div class="fundo">
+                    <a href="../index.php"><i class="fa-solid fa-house-chimney"></i> Início</a>
+                </div>
+            </li>
+            <li>
+                <div class="fundo">
+                    <a href="../conteudos/filmes/categoria-filmes.html"><i class="fa-solid fa-film"></i> Filmes</a>
+                </div>
+            </li>
+            <li>
+                <div class="fundo">
+                    <a href="../conteudos/jogos/categoria-jogos.html"><i class="fa-solid fa-gamepad"></i> Jogos</a>
+                </div>
+            </li>
+            <li>
+                <div class="fundo">
+                    <a href="../conteudos/documentarios/categoria-documentarios.html"><i class="fa-solid fa-book"></i> Documentários</a>
+                </div>
+            </li>
+        </ul>
 
-            <h2>Gerais</h2>
-            <ul>
-                <li><a href="sobre.php"><i class="fa-solid fa-user-tie"></i> Sobre</a></li>
-                <li><a href="contato.html"><i class="fa-solid fa-envelope"></i> Contato</a></li>
-                <li><a href="politica-de-privacidade.php"><i class="fa-solid fa-lock"></i> Política de privacidade</a></li>
-                <li><a href="termos-de-servico.php"><i class="fa-solid fa-file"></i> Termos de serviço</a></li>
-                <li><a href="politica-de-cookies.php"><i class="fa-solid fa-cookie-bite"></i> Política de cookies</a></li>
-            </ul>
-        </div> <!--Menu Lateral esquerdo (Desktop) end-->
+        <h2>Gerais</h2>
+        <ul>
+            <li>
+                <div class="fundo">
+                    <a href="sobre.php"><i class="fa-solid fa-user-tie"></i> Sobre</a>
+                </div>
+            </li>
+            <li>
+                <div class="fundo">
+                    <a href="contato.html"><i class="fa-solid fa-envelope"></i> Contato</a>
+                </div>
+            </li>
+            <li>
+                <div class="fundo">
+                    <a href="politica-de-privacidade.php" style="font-size: 80%;"><i class="fa-solid fa-lock"></i> Política de privacidade</a>
+                </div>
+            </li>
+            <li>
+                <div class="fundo">
+                    <a href="termos-de-servico.php" style="font-size: 90%;"><i class="fa-solid fa-file"></i> Termos de serviço</a>
+                </div>
+            </li>
+            <li>
+                <div class="fundo">
+                    <a href="politica-de-cookies.php" style="font-size: 90%;"><i class="fa-solid fa-cookie-bite"></i> Política de cookies</a>
+                </div>
+            </li>
+        </ul>
+    </div> <!--Menu Lateral esquerdo (Desktop) end-->
+
 ';

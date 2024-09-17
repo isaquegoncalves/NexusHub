@@ -54,7 +54,7 @@
 
                 <li>
                     <div class="fundo">
-                        <a href="politicas-e-termos/politica-de-privacidade.php"><i class="fa-solid fa-lock"></i> Política de privacidade</a>
+                        <a href="politicas-e-termos/politica-de-privacidade.php" style="font-size: 90%;"><i class="fa-solid fa-lock"></i> Política de privacidade</a>
                     </div>
                 </li>
 
